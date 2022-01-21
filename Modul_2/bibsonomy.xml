@@ -232,20 +232,6 @@
     </publication>
     <publication>
         <id>14</id>
-        <title>Arabic OCR Based on Image Invariants.</title>
-        <authors>
-            <author>Abdullah I. Al-Shoshan</author>
-        </authors>
-        <publisher>IEEE Computer Society</publisher>
-        <year>2006</year>
-        <isbn>0-7695-2604-7</isbn>
-        <url>http://dblp.uni-trier.de/db/conf/gmai/gmai2006.html#Al-Shoshan06</url>
-        <ee>http://doi.ieeecomputersociety.org/10.1109/GMAI.2006.9</ee>
-        <bibtexKey>conf/gmai/Al-Shoshan06</bibtexKey>
-        <bibsonomy_id>https://www.bibsonomy.org/bibtex/24afd8dd3b4fe402906e040a2a4ca5b17/dblp</bibsonomy_id>
-    </publication>
-    <publication>
-        <id>15</id>
         <title>OCR for World Wide Web images.</title>
         <authors>
             <author>Jiangying Zhou</author>
@@ -263,6 +249,20 @@
         <ee>http://dx.doi.org/10.1117/12.270080</ee>
         <bibtexKey>conf/drr/ZhouLL97</bibtexKey>
         <bibsonomy_id>https://www.bibsonomy.org/bibtex/2c2ef66d5b4978155833a034aed3d7bff/dblp</bibsonomy_id>
+    </publication>
+    <publication>
+        <id>15</id>
+        <title>Arabic OCR Based on Image Invariants.</title>
+        <authors>
+            <author>Abdullah I. Al-Shoshan</author>
+        </authors>
+        <publisher>IEEE Computer Society</publisher>
+        <year>2006</year>
+        <isbn>0-7695-2604-7</isbn>
+        <url>http://dblp.uni-trier.de/db/conf/gmai/gmai2006.html#Al-Shoshan06</url>
+        <ee>http://doi.ieeecomputersociety.org/10.1109/GMAI.2006.9</ee>
+        <bibtexKey>conf/gmai/Al-Shoshan06</bibtexKey>
+        <bibsonomy_id>https://www.bibsonomy.org/bibtex/24afd8dd3b4fe402906e040a2a4ca5b17/dblp</bibsonomy_id>
     </publication>
     <publication>
         <id>16</id>
@@ -13236,16 +13236,16 @@ available online 1 ready to be inspected and downloaded.</abstract>
     </publication>
     <publication>
         <id>744</id>
-        <title>Probabilistic Management of OCR Data using an RDBMS</title>
+        <title>Probabilistic Management of OCR Data using an RDBMS.</title>
         <authors>
             <author>Arun Kumar</author>
             <author>Christopher Ré</author>
         </authors>
         <year>2011</year>
-        <url>http://dblp.uni-trier.de/db/journals/corr/corr1106.html#abs-1106-0718</url>
-        <ee>http://arxiv.org/abs/1106.0718</ee>
-        <bibtexKey>journals/corr/abs-1106-0718</bibtexKey>
-        <bibsonomy_id>https://www.bibsonomy.org/bibtex/2200e71c7b6dd85b293b12b6e951b04aa/dblp</bibsonomy_id>
+        <url>http://dblp.uni-trier.de/db/journals/pvldb/pvldb5.html#KumarR11</url>
+        <ee>https://doi.org/10.14778/2095686.2095691</ee>
+        <bibtexKey>journals/pvldb/KumarR11</bibtexKey>
+        <bibsonomy_id>https://www.bibsonomy.org/bibtex/276d55920ef9ee173b28fc6c0195721f8/dblp</bibsonomy_id>
     </publication>
     <publication>
         <id>745</id>
