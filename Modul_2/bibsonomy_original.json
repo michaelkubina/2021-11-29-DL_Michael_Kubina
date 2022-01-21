@@ -876,6 +876,21 @@
     },
     {
       "type": "Bookmark",
+      "id": "https://www.bibsonomy.org/url/b5417ffbb5326a60f76bbc1f18751036/avs",
+      "tags": [
+        "OCR"
+      ],
+      "intraHash": "b5417ffbb5326a60f76bbc1f18751036",
+      "label": "OCR Terminal",
+      "user": "avs",
+      "description": "",
+      "date": "2009-01-31 22:42:49",
+      "changeDate": "2009-01-31 22:42:49",
+      "count": 1,
+      "url": "https://www.ocrterminal.com/"
+    },
+    {
+      "type": "Bookmark",
       "id": "https://www.bibsonomy.org/url/32eb2ad1b44cef11170c74bde57dfc88/fabian",
       "tags": [
         "software",
@@ -894,18 +909,20 @@
     },
     {
       "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/b5417ffbb5326a60f76bbc1f18751036/avs",
+      "id": "https://www.bibsonomy.org/url/b454628393958449411af687bbb6d3bd/bshanks",
       "tags": [
-        "OCR"
+        "reverse_ocr",
+        "ocr",
+        "reverse"
       ],
-      "intraHash": "b5417ffbb5326a60f76bbc1f18751036",
-      "label": "OCR Terminal",
-      "user": "avs",
+      "intraHash": "b454628393958449411af687bbb6d3bd",
+      "label": "Reverse OCR",
+      "user": "bshanks",
       "description": "",
-      "date": "2009-01-31 22:42:49",
-      "changeDate": "2009-01-31 22:42:49",
+      "date": "2016-12-12 10:00:11",
+      "changeDate": "2020-06-15 21:39:35",
       "count": 1,
-      "url": "https://www.ocrterminal.com/"
+      "url": "http://reverseocr.tumblr.com/"
     },
     {
       "type": "Bookmark",
@@ -921,23 +938,6 @@
       "changeDate": "2011-01-04 20:19:00",
       "count": 1,
       "url": "http://www.structurise.com/"
-    },
-    {
-      "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/b454628393958449411af687bbb6d3bd/bshanks",
-      "tags": [
-        "reverse_ocr",
-        "ocr",
-        "reverse"
-      ],
-      "intraHash": "b454628393958449411af687bbb6d3bd",
-      "label": "Reverse OCR",
-      "user": "bshanks",
-      "description": "",
-      "date": "2016-12-12 10:00:11",
-      "changeDate": "2020-06-15 21:39:35",
-      "count": 1,
-      "url": "http://reverseocr.tumblr.com/"
     },
     {
       "type": "Bookmark",
@@ -1239,23 +1239,6 @@
     },
     {
       "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/23c2dbfb2938a39f52083a4614894f15/bshanks",
-      "tags": [
-        "vs",
-        "ocr",
-        "blog"
-      ],
-      "intraHash": "23c2dbfb2938a39f52083a4614894f15",
-      "label": "Linux OCR Software Comparison [splitbrain.org]",
-      "user": "bshanks",
-      "description": "",
-      "date": "2016-12-12 10:00:49",
-      "changeDate": "2020-06-15 21:39:35",
-      "count": 1,
-      "url": "http://www.splitbrain.org/blog/2010-06/15-linux_ocr_software_comparison"
-    },
-    {
-      "type": "Bookmark",
       "id": "https://www.bibsonomy.org/url/a6bfaa0f05b9c1edc804dac5a696c9d0/timo",
       "tags": [
         "image",
@@ -1272,6 +1255,23 @@
       "changeDate": "2007-06-05 02:43:43",
       "count": 1,
       "url": "http://www.hipo.fr/"
+    },
+    {
+      "type": "Bookmark",
+      "id": "https://www.bibsonomy.org/url/23c2dbfb2938a39f52083a4614894f15/bshanks",
+      "tags": [
+        "vs",
+        "ocr",
+        "blog"
+      ],
+      "intraHash": "23c2dbfb2938a39f52083a4614894f15",
+      "label": "Linux OCR Software Comparison [splitbrain.org]",
+      "user": "bshanks",
+      "description": "",
+      "date": "2016-12-12 10:00:49",
+      "changeDate": "2020-06-15 21:39:35",
+      "count": 1,
+      "url": "http://www.splitbrain.org/blog/2010-06/15-linux_ocr_software_comparison"
     },
     {
       "type": "Bookmark",
@@ -1451,21 +1451,6 @@
     },
     {
       "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/7b24a4f94a3fae0aafe450b0b67f9bb5/bshanks",
-      "tags": [
-        "ocr"
-      ],
-      "intraHash": "7b24a4f94a3fae0aafe450b0b67f9bb5",
-      "label": "Ask HN: Open source OCR library? | Hacker News",
-      "user": "bshanks",
-      "description": "",
-      "date": "2016-12-12 10:00:07",
-      "changeDate": "2020-06-15 21:39:35",
-      "count": 1,
-      "url": "https://news.ycombinator.com/item?id=9775753"
-    },
-    {
-      "type": "Bookmark",
       "id": "https://www.bibsonomy.org/url/d086872eec34c99d6afb6c7cccd50234/bshanks",
       "tags": [
         "lib",
@@ -1480,6 +1465,21 @@
       "changeDate": "2020-06-15 21:39:35",
       "count": 1,
       "url": "https://github.com/naptha/tesseract.js"
+    },
+    {
+      "type": "Bookmark",
+      "id": "https://www.bibsonomy.org/url/7b24a4f94a3fae0aafe450b0b67f9bb5/bshanks",
+      "tags": [
+        "ocr"
+      ],
+      "intraHash": "7b24a4f94a3fae0aafe450b0b67f9bb5",
+      "label": "Ask HN: Open source OCR library? | Hacker News",
+      "user": "bshanks",
+      "description": "",
+      "date": "2016-12-12 10:00:07",
+      "changeDate": "2020-06-15 21:39:35",
+      "count": 1,
+      "url": "https://news.ycombinator.com/item?id=9775753"
     },
     {
       "type": "Bookmark",
@@ -2077,6 +2077,22 @@
     },
     {
       "type": "Bookmark",
+      "id": "https://www.bibsonomy.org/url/26f3262bf64ec36192a66b33746038c0/braco",
+      "tags": [
+        "natpisi-pretra\u017eivi",
+        "CIL"
+      ],
+      "intraHash": "26f3262bf64ec36192a66b33746038c0",
+      "label": "CIL 03, Vol. 02, OCR",
+      "user": "braco",
+      "description": "",
+      "date": "2017-12-17 15:30:40",
+      "changeDate": "2017-12-17 15:30:40",
+      "count": 1,
+      "url": "https://books.google.hr/books?id=6qyLuo0iO_8C&"
+    },
+    {
+      "type": "Bookmark",
       "id": "https://www.bibsonomy.org/url/bf81d601af1bf5b0f146e263559b1574/filologanoga",
       "tags": [
         "openPhilology",
@@ -2094,22 +2110,6 @@
       "changeDate": "2017-05-16 23:52:41",
       "count": 1,
       "url": "http://heml.mta.ca/lace/catalog"
-    },
-    {
-      "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/26f3262bf64ec36192a66b33746038c0/braco",
-      "tags": [
-        "natpisi-pretra\u017eivi",
-        "CIL"
-      ],
-      "intraHash": "26f3262bf64ec36192a66b33746038c0",
-      "label": "CIL 03, Vol. 02, OCR",
-      "user": "braco",
-      "description": "",
-      "date": "2017-12-17 15:30:40",
-      "changeDate": "2017-12-17 15:30:40",
-      "count": 1,
-      "url": "https://books.google.hr/books?id=6qyLuo0iO_8C&"
     },
     {
       "type": "Bookmark",
@@ -2923,18 +2923,54 @@
     },
     {
       "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/0c474771d6499df6c644a76ac9a24f1c/bibliothecaire",
+      "id": "https://www.bibsonomy.org/url/26c923aa4fe8934a3a8ed9b345ce7dee/schrang",
       "tags": [
+        "Dokumentenmanagement",
         "OCR"
       ],
-      "intraHash": "0c474771d6499df6c644a76ac9a24f1c",
-      "label": "SimpleOCR - Download Squad",
-      "user": "bibliothecaire",
+      "intraHash": "26c923aa4fe8934a3a8ed9b345ce7dee",
+      "label": "Die Zeichen erkennen: Schrifterkennung heute",
+      "user": "schrang",
       "description": "",
-      "date": "2006-07-24 16:26:07",
-      "changeDate": "2007-11-29 18:20:24",
+      "date": "2007-04-19 23:01:20",
+      "changeDate": "2007-04-19 23:01:20",
       "count": 1,
-      "url": "http://www.downloadsquad.com/2006/07/24/simpleocr/"
+      "url": "http://www.documanager.de/magazin/artikel_1405.html"
+    },
+    {
+      "type": "Bookmark",
+      "id": "https://www.bibsonomy.org/url/d2df45daa276565fb2f9becd783c1757/lysander07",
+      "tags": [
+        "application",
+        "ocr",
+        "latex"
+      ],
+      "intraHash": "d2df45daa276565fb2f9becd783c1757",
+      "label": "Detexify LaTeX handwritten symbol recognition",
+      "user": "lysander07",
+      "description": "",
+      "date": "2010-06-11 06:33:12",
+      "changeDate": "2010-06-11 06:33:12",
+      "count": 36,
+      "url": "http://detexify.kirelabs.org/classify.html"
+    },
+    {
+      "type": "Bookmark",
+      "id": "https://www.bibsonomy.org/url/d2df45daa276565fb2f9becd783c1757/schmitz",
+      "tags": [
+        "recognition",
+        "ocr",
+        "symbol",
+        "latex"
+      ],
+      "intraHash": "d2df45daa276565fb2f9becd783c1757",
+      "label": "Detexify LaTeX handwritten symbol recognition",
+      "user": "schmitz",
+      "description": "",
+      "date": "2010-08-18 14:52:30",
+      "changeDate": "2010-08-18 14:52:30",
+      "count": 36,
+      "url": "http://detexify.kirelabs.org/classify.html"
     },
     {
       "type": "Bookmark",
@@ -3008,54 +3044,18 @@
     },
     {
       "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/d2df45daa276565fb2f9becd783c1757/lysander07",
+      "id": "https://www.bibsonomy.org/url/0c474771d6499df6c644a76ac9a24f1c/bibliothecaire",
       "tags": [
-        "application",
-        "ocr",
-        "latex"
+        "OCR"
       ],
-      "intraHash": "d2df45daa276565fb2f9becd783c1757",
-      "label": "Detexify LaTeX handwritten symbol recognition",
-      "user": "lysander07",
+      "intraHash": "0c474771d6499df6c644a76ac9a24f1c",
+      "label": "SimpleOCR - Download Squad",
+      "user": "bibliothecaire",
       "description": "",
-      "date": "2010-06-11 06:33:12",
-      "changeDate": "2010-06-11 06:33:12",
-      "count": 36,
-      "url": "http://detexify.kirelabs.org/classify.html"
-    },
-    {
-      "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/d2df45daa276565fb2f9becd783c1757/schmitz",
-      "tags": [
-        "recognition",
-        "ocr",
-        "symbol",
-        "latex"
-      ],
-      "intraHash": "d2df45daa276565fb2f9becd783c1757",
-      "label": "Detexify LaTeX handwritten symbol recognition",
-      "user": "schmitz",
-      "description": "",
-      "date": "2010-08-18 14:52:30",
-      "changeDate": "2010-08-18 14:52:30",
-      "count": 36,
-      "url": "http://detexify.kirelabs.org/classify.html"
-    },
-    {
-      "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/983c9697d0f208dac790d4e1a4dbf634/ubt.rohlfs",
-      "tags": [
-        "digitalisierung",
-        "ocr"
-      ],
-      "intraHash": "983c9697d0f208dac790d4e1a4dbf634",
-      "label": "ScanTailor",
-      "user": "ubt.rohlfs",
-      "description": "",
-      "date": "2017-05-24 14:24:47",
-      "changeDate": "2017-05-24 14:24:47",
+      "date": "2006-07-24 16:26:07",
+      "changeDate": "2007-11-29 18:20:24",
       "count": 1,
-      "url": "http://scantailor.org/"
+      "url": "http://www.downloadsquad.com/2006/07/24/simpleocr/"
     },
     {
       "type": "Bookmark",
@@ -3081,19 +3081,19 @@
     },
     {
       "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/26c923aa4fe8934a3a8ed9b345ce7dee/schrang",
+      "id": "https://www.bibsonomy.org/url/983c9697d0f208dac790d4e1a4dbf634/ubt.rohlfs",
       "tags": [
-        "Dokumentenmanagement",
-        "OCR"
+        "digitalisierung",
+        "ocr"
       ],
-      "intraHash": "26c923aa4fe8934a3a8ed9b345ce7dee",
-      "label": "Die Zeichen erkennen: Schrifterkennung heute",
-      "user": "schrang",
+      "intraHash": "983c9697d0f208dac790d4e1a4dbf634",
+      "label": "ScanTailor",
+      "user": "ubt.rohlfs",
       "description": "",
-      "date": "2007-04-19 23:01:20",
-      "changeDate": "2007-04-19 23:01:20",
+      "date": "2017-05-24 14:24:47",
+      "changeDate": "2017-05-24 14:24:47",
       "count": 1,
-      "url": "http://www.documanager.de/magazin/artikel_1405.html"
+      "url": "http://scantailor.org/"
     },
     {
       "type": "Bookmark",
@@ -3149,25 +3149,6 @@
     },
     {
       "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/7c90ce7043d2fb47ca6e628aeb406f07/arademaker",
-      "tags": [
-        "notes",
-        "productivity",
-        "services",
-        "photos",
-        "ocr"
-      ],
-      "intraHash": "7c90ce7043d2fb47ca6e628aeb406f07",
-      "label": "JotNot! | Digitizing the world's documents.",
-      "user": "arademaker",
-      "description": "",
-      "date": "2009-11-04 01:55:52",
-      "changeDate": "2011-01-04 20:18:19",
-      "count": 1,
-      "url": "http://www.jotnot.com/"
-    },
-    {
-      "type": "Bookmark",
       "id": "https://www.bibsonomy.org/url/a85ac5a01a471613a8099aebdd88512d/zeitungsportal",
       "tags": [
         "image",
@@ -3188,23 +3169,6 @@
       "changeDate": "2009-02-09 15:45:11",
       "count": 1,
       "url": "http://djvu.sourceforge.net/doc/man/djvuxml.html"
-    },
-    {
-      "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/478403b6af32d84e90df43411dc72fc4/fabian",
-      "tags": [
-        "online",
-        "free",
-        "ocr"
-      ],
-      "intraHash": "478403b6af32d84e90df43411dc72fc4",
-      "label": "OpenOCR \u2013 Main page",
-      "user": "fabian",
-      "description": "",
-      "date": "2009-10-14 20:13:48",
-      "changeDate": "2012-09-13 08:46:42",
-      "count": 1,
-      "url": "http://en.openocr.org/"
     },
     {
       "type": "Bookmark",
@@ -3230,6 +3194,59 @@
     },
     {
       "type": "Bookmark",
+      "id": "https://www.bibsonomy.org/url/478403b6af32d84e90df43411dc72fc4/fabian",
+      "tags": [
+        "online",
+        "free",
+        "ocr"
+      ],
+      "intraHash": "478403b6af32d84e90df43411dc72fc4",
+      "label": "OpenOCR \u2013 Main page",
+      "user": "fabian",
+      "description": "",
+      "date": "2009-10-14 20:13:48",
+      "changeDate": "2012-09-13 08:46:42",
+      "count": 1,
+      "url": "http://en.openocr.org/"
+    },
+    {
+      "type": "Bookmark",
+      "id": "https://www.bibsonomy.org/url/7c90ce7043d2fb47ca6e628aeb406f07/arademaker",
+      "tags": [
+        "notes",
+        "productivity",
+        "services",
+        "photos",
+        "ocr"
+      ],
+      "intraHash": "7c90ce7043d2fb47ca6e628aeb406f07",
+      "label": "JotNot! | Digitizing the world's documents.",
+      "user": "arademaker",
+      "description": "",
+      "date": "2009-11-04 01:55:52",
+      "changeDate": "2011-01-04 20:18:19",
+      "count": 1,
+      "url": "http://www.jotnot.com/"
+    },
+    {
+      "type": "Bookmark",
+      "id": "https://www.bibsonomy.org/url/0901c5debca5772ce9ec0062469e73de/schrang",
+      "tags": [
+        "Frakturschrift",
+        "FineReader",
+        "OCR"
+      ],
+      "intraHash": "0901c5debca5772ce9ec0062469e73de",
+      "label": "CHIP Online Archiv - FineReader: Texterkennung f\u00fcr Frakturschrift",
+      "user": "schrang",
+      "description": "",
+      "date": "2007-01-12 18:09:07",
+      "changeDate": "2009-02-02 21:02:40",
+      "count": 1,
+      "url": "http://archiv.chip.de/news/c1_archiv_news_17205600.html"
+    },
+    {
+      "type": "Bookmark",
       "id": "https://www.bibsonomy.org/url/5292521dbdf2c5ca2dca2a16983f83df/panic",
       "tags": [
         "=O",
@@ -3251,20 +3268,38 @@
     },
     {
       "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/0901c5debca5772ce9ec0062469e73de/schrang",
+      "id": "https://www.bibsonomy.org/url/ed74282505719d4b2e8d6434d004f9ee/hprop",
       "tags": [
-        "Frakturschrift",
-        "FineReader",
-        "OCR"
+        "machine-learning",
+        "ocr"
       ],
-      "intraHash": "0901c5debca5772ce9ec0062469e73de",
-      "label": "CHIP Online Archiv - FineReader: Texterkennung f\u00fcr Frakturschrift",
-      "user": "schrang",
+      "intraHash": "ed74282505719d4b2e8d6434d004f9ee",
+      "label": "Text Detection and Character Recognition in Scene Images with Unsupervised Feature Learning",
+      "user": "hprop",
       "description": "",
-      "date": "2007-01-12 18:09:07",
-      "changeDate": "2009-02-02 21:02:40",
+      "date": "2016-06-04 14:27:28",
+      "changeDate": "2016-06-15 10:02:39",
       "count": 1,
-      "url": "http://archiv.chip.de/news/c1_archiv_news_17205600.html"
+      "url": "http://ai.stanford.edu/~ang/papers/icdar01-TextRecognitionUnsupervisedFeatureLearning.pdf"
+    },
+    {
+      "type": "Bookmark",
+      "id": "https://www.bibsonomy.org/url/f0787d77aa19bdb794a2ea466cd57725/nosebrain",
+      "tags": [
+        "pdf",
+        "hocr",
+        "hocr2pdf",
+        "ocr",
+        "searchable"
+      ],
+      "intraHash": "f0787d77aa19bdb794a2ea466cd57725",
+      "label": "ExactCODE: Hocr2PDF",
+      "user": "nosebrain",
+      "description": "",
+      "date": "2012-12-31 11:51:21",
+      "changeDate": "2012-12-31 11:51:21",
+      "count": 1,
+      "url": "http://exactcode.de/site/open_source/exactimage/hocr2pdf"
     },
     {
       "type": "Bookmark",
@@ -3303,22 +3338,22 @@
     },
     {
       "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/f0787d77aa19bdb794a2ea466cd57725/nosebrain",
+      "id": "https://www.bibsonomy.org/url/0f4e7c5aa7c95fd16721d81baedc13d0/bshanks",
       "tags": [
-        "pdf",
-        "hocr",
-        "hocr2pdf",
-        "ocr",
-        "searchable"
+        "dewarp",
+        "curve",
+        "scan",
+        "page",
+        "ocr"
       ],
-      "intraHash": "f0787d77aa19bdb794a2ea466cd57725",
-      "label": "ExactCODE: Hocr2PDF",
-      "user": "nosebrain",
+      "intraHash": "0f4e7c5aa7c95fd16721d81baedc13d0",
+      "label": "Page dewarping",
+      "user": "bshanks",
       "description": "",
-      "date": "2012-12-31 11:51:21",
-      "changeDate": "2012-12-31 11:51:21",
+      "date": "2016-12-13 05:13:40",
+      "changeDate": "2020-06-15 21:39:35",
       "count": 1,
-      "url": "http://exactcode.de/site/open_source/exactimage/hocr2pdf"
+      "url": "https://mzucker.github.io/2016/08/15/page-dewarping.html"
     },
     {
       "type": "Bookmark",
@@ -3354,25 +3389,6 @@
     },
     {
       "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/0f4e7c5aa7c95fd16721d81baedc13d0/bshanks",
-      "tags": [
-        "dewarp",
-        "curve",
-        "scan",
-        "page",
-        "ocr"
-      ],
-      "intraHash": "0f4e7c5aa7c95fd16721d81baedc13d0",
-      "label": "Page dewarping",
-      "user": "bshanks",
-      "description": "",
-      "date": "2016-12-13 05:13:40",
-      "changeDate": "2020-06-15 21:39:35",
-      "count": 1,
-      "url": "https://mzucker.github.io/2016/08/15/page-dewarping.html"
-    },
-    {
-      "type": "Bookmark",
       "id": "https://www.bibsonomy.org/url/6685d5019aae64002fc4868717a2335a/avs",
       "tags": [
         "OCR"
@@ -3385,22 +3401,6 @@
       "changeDate": "2018-11-22 11:37:40",
       "count": 1,
       "url": "http://kraken.re/"
-    },
-    {
-      "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/ed74282505719d4b2e8d6434d004f9ee/hprop",
-      "tags": [
-        "machine-learning",
-        "ocr"
-      ],
-      "intraHash": "ed74282505719d4b2e8d6434d004f9ee",
-      "label": "Text Detection and Character Recognition in Scene Images with Unsupervised Feature Learning",
-      "user": "hprop",
-      "description": "",
-      "date": "2016-06-04 14:27:28",
-      "changeDate": "2016-06-15 10:02:39",
-      "count": 1,
-      "url": "http://ai.stanford.edu/~ang/papers/icdar01-TextRecognitionUnsupervisedFeatureLearning.pdf"
     },
     {
       "type": "Bookmark",
@@ -3436,6 +3436,26 @@
     },
     {
       "type": "Bookmark",
+      "id": "https://www.bibsonomy.org/url/c430963854e3319d2855326805f2f1c0/gor",
+      "tags": [
+        "ArtificialIntelligence",
+        "imported",
+        "PatternRecognition",
+        "Computing",
+        "OCR",
+        "system:imported"
+      ],
+      "intraHash": "c430963854e3319d2855326805f2f1c0",
+      "label": "ScanSoft Developers Kit 2000 Recognition Modules Summary",
+      "user": "gor",
+      "description": "",
+      "date": "2001-03-15 12:03:40",
+      "changeDate": "2001-03-15 12:03:40",
+      "count": 1,
+      "url": "http://www.caere.com/products/devkit/teamocr/dev2000recog.asp"
+    },
+    {
+      "type": "Bookmark",
       "id": "https://www.bibsonomy.org/url/111e7fae0e6606fed82e97ae34da5497/pietrosperoni",
       "tags": [
         "linux",
@@ -3453,27 +3473,6 @@
       "changeDate": "2009-01-07 08:09:00",
       "count": 4,
       "url": "http://www.gnu.org/software/ocrad/ocrad.html"
-    },
-    {
-      "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/3ffc9d800805adb2fe90971c8aa308e0/sac",
-      "tags": [
-        "e_book",
-        "book",
-        "pattern",
-        "klassifikation",
-        "free",
-        "ocr",
-        "picture"
-      ],
-      "intraHash": "3ffc9d800805adb2fe90971c8aa308e0",
-      "label": "Book Klassifikation von Mustern",
-      "user": "sac",
-      "description": "Klassifikation von Mustern\r\nH. Niemann\r\nLehrstuhl f\u00fcr Mustererkennung\r\nUniversit\u00e4t Erlangen-N\u00fcrnberg",
-      "date": "2009-12-27 02:10:32",
-      "changeDate": "2009-12-27 02:10:32",
-      "count": 1,
-      "url": "http://www5.informatik.uni-erlangen.de/fileadmin/Persons/NiemannHeinrich/klassifikation-von-mustern/m00links.html"
     },
     {
       "type": "Bookmark",
@@ -3500,91 +3499,6 @@
     },
     {
       "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/dacc21b9987bf5a7ce6034c65943d802/calidius",
-      "tags": [
-        "TEI",
-        "ia",
-        "Software",
-        "OCR"
-      ],
-      "intraHash": "dacc21b9987bf5a7ce6034c65943d802",
-      "label": "XSLT to Transform ABBYY Finereader XML into TEI | IslandLives",
-      "user": "calidius",
-      "description": "",
-      "date": "2010-09-29 18:03:51",
-      "changeDate": "2013-03-02 20:18:48",
-      "count": 1,
-      "url": "http://discoveryspace.upei.ca/islandlives.ca/node/130"
-    },
-    {
-      "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/028f933758571295859b6d8676e61c21/jaj",
-      "tags": [
-        "digitization",
-        "ocr"
-      ],
-      "intraHash": "028f933758571295859b6d8676e61c21",
-      "label": "Impact | Improving access to text : Home",
-      "user": "jaj",
-      "description": "IMPACT is a Centre of Competence that makes digitisation of historical printed text in Europe faster, cheaper and better, and provides tools, services and facilities for further advancement of the State of the Art in this field.",
-      "date": "2013-01-05 20:48:31",
-      "changeDate": "2013-01-05 20:48:31",
-      "count": 2,
-      "url": "http://www.impact-project.eu/"
-    },
-    {
-      "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/87e3b662d63c318e2526c18025cca5bb/jaj",
-      "tags": [
-        "tools",
-        "ocr"
-      ],
-      "intraHash": "87e3b662d63c318e2526c18025cca5bb",
-      "label": "GOCR, JOCR",
-      "user": "jaj",
-      "description": "optical character recognition software. links to related software.",
-      "date": "2013-04-02 20:20:23",
-      "changeDate": "2013-04-02 20:20:24",
-      "count": 1,
-      "url": "http://jocr.sourceforge.net/links.html"
-    },
-    {
-      "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/23027d189b0af22b605aa515332f6f47/arademaker",
-      "tags": [
-        "ocr"
-      ],
-      "intraHash": "23027d189b0af22b605aa515332f6f47",
-      "label": "ocropus -  Project Hosting on Google Code",
-      "user": "arademaker",
-      "description": "",
-      "date": "2010-04-18 18:23:57",
-      "changeDate": "2011-01-04 20:18:07",
-      "count": 12,
-      "url": "http://code.google.com/p/ocropus/"
-    },
-    {
-      "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/f6df7728ed50894daf415047879ef41c/draganigajic",
-      "tags": [
-        "linux",
-        "googlebooks",
-        "software",
-        "wikipedia",
-        "google",
-        "ocr"
-      ],
-      "intraHash": "f6df7728ed50894daf415047879ef41c",
-      "label": "OCRopus - Wikipedia, the free encyclopedia",
-      "user": "draganigajic",
-      "description": "",
-      "date": "2011-07-13 18:12:28",
-      "changeDate": "2011-07-13 18:12:28",
-      "count": 1,
-      "url": "http://en.wikipedia.org/wiki/OCRopus"
-    },
-    {
-      "type": "Bookmark",
       "id": "https://www.bibsonomy.org/url/7948f8dbb4ac185c0428dbd87d45ec08/kba2",
       "tags": [
         "tiff",
@@ -3600,97 +3514,6 @@
       "changeDate": "2012-05-08 00:30:11",
       "count": 1,
       "url": "http://www.investintech.com/resources/articles/whattiff/"
-    },
-    {
-      "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/c430963854e3319d2855326805f2f1c0/gor",
-      "tags": [
-        "ArtificialIntelligence",
-        "imported",
-        "PatternRecognition",
-        "Computing",
-        "OCR",
-        "system:imported"
-      ],
-      "intraHash": "c430963854e3319d2855326805f2f1c0",
-      "label": "ScanSoft Developers Kit 2000 Recognition Modules Summary",
-      "user": "gor",
-      "description": "",
-      "date": "2001-03-15 12:03:40",
-      "changeDate": "2001-03-15 12:03:40",
-      "count": 1,
-      "url": "http://www.caere.com/products/devkit/teamocr/dev2000recog.asp"
-    },
-    {
-      "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/856f1cb51daba38d23f30ce86310d51b/pauljrichardson",
-      "tags": [
-        "TECH(Mix)",
-        "OCR",
-        "Bookmarks_bar"
-      ],
-      "intraHash": "856f1cb51daba38d23f30ce86310d51b",
-      "label": "ABBYY FineReader Online - Task history",
-      "user": "pauljrichardson",
-      "description": "",
-      "date": "2015-04-05 03:35:00",
-      "changeDate": "2015-04-05 03:35:00",
-      "count": 1,
-      "url": "http://finereader.abbyyonline.com/en/Task/History"
-    },
-    {
-      "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/53331ee4b093929dad7539e40660612f/pauljrichardson",
-      "tags": [
-        "TECH(Mix)",
-        "OCR",
-        "Bookmarks_bar"
-      ],
-      "intraHash": "53331ee4b093929dad7539e40660612f",
-      "label": "Cognitive OpenOCR (CuneiForm) - DIRECT DOWNLOAD",
-      "user": "pauljrichardson",
-      "description": "",
-      "date": "2015-04-05 03:35:00",
-      "changeDate": "2015-04-05 03:35:00",
-      "count": 1,
-      "url": "http://cognitiveforms.ru/downloads/setup_openocr_cuneiform_en.exe"
-    },
-    {
-      "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/8cc368ef7c5990150e93afb8d694b723/pauljrichardson",
-      "tags": [
-        "TECH(Mix)",
-        "OCR",
-        "Bookmarks_bar"
-      ],
-      "intraHash": "8cc368ef7c5990150e93afb8d694b723",
-      "label": "My Drive - Google Drive",
-      "user": "pauljrichardson",
-      "description": "",
-      "date": "2015-04-05 03:35:01",
-      "changeDate": "2015-04-05 03:35:01",
-      "count": 9,
-      "url": "http://docs.google.com/"
-    },
-    {
-      "type": "Bookmark",
-      "id": "https://www.bibsonomy.org/url/255d84df7891cfdecd432b28fb5319fa/selm",
-      "tags": [
-        "eL3\u20ac7",
-        "Lesezeichen-Symbolleiste",
-        "public",
-        "office",
-        "ocr",
-        "userland"
-      ],
-      "intraHash": "255d84df7891cfdecd432b28fb5319fa",
-      "label": "JOCR",
-      "user": "selm",
-      "description": "",
-      "date": "2020-07-25 23:17:09",
-      "changeDate": "2020-07-25 23:42:37",
-      "count": 6,
-      "url": "http://jocr.sourceforge.net/"
     },
     {
       "type": "Bookmark",
@@ -3760,6 +3583,163 @@
     },
     {
       "type": "Bookmark",
+      "id": "https://www.bibsonomy.org/url/856f1cb51daba38d23f30ce86310d51b/pauljrichardson",
+      "tags": [
+        "TECH(Mix)",
+        "OCR",
+        "Bookmarks_bar"
+      ],
+      "intraHash": "856f1cb51daba38d23f30ce86310d51b",
+      "label": "ABBYY FineReader Online - Task history",
+      "user": "pauljrichardson",
+      "description": "",
+      "date": "2015-04-05 03:35:00",
+      "changeDate": "2015-04-05 03:35:00",
+      "count": 1,
+      "url": "http://finereader.abbyyonline.com/en/Task/History"
+    },
+    {
+      "type": "Bookmark",
+      "id": "https://www.bibsonomy.org/url/53331ee4b093929dad7539e40660612f/pauljrichardson",
+      "tags": [
+        "TECH(Mix)",
+        "OCR",
+        "Bookmarks_bar"
+      ],
+      "intraHash": "53331ee4b093929dad7539e40660612f",
+      "label": "Cognitive OpenOCR (CuneiForm) - DIRECT DOWNLOAD",
+      "user": "pauljrichardson",
+      "description": "",
+      "date": "2015-04-05 03:35:00",
+      "changeDate": "2015-04-05 03:35:00",
+      "count": 1,
+      "url": "http://cognitiveforms.ru/downloads/setup_openocr_cuneiform_en.exe"
+    },
+    {
+      "type": "Bookmark",
+      "id": "https://www.bibsonomy.org/url/8cc368ef7c5990150e93afb8d694b723/pauljrichardson",
+      "tags": [
+        "TECH(Mix)",
+        "OCR",
+        "Bookmarks_bar"
+      ],
+      "intraHash": "8cc368ef7c5990150e93afb8d694b723",
+      "label": "My Drive - Google Drive",
+      "user": "pauljrichardson",
+      "description": "",
+      "date": "2015-04-05 03:35:01",
+      "changeDate": "2015-04-05 03:35:01",
+      "count": 9,
+      "url": "http://docs.google.com/"
+    },
+    {
+      "type": "Bookmark",
+      "id": "https://www.bibsonomy.org/url/3ffc9d800805adb2fe90971c8aa308e0/sac",
+      "tags": [
+        "e_book",
+        "book",
+        "pattern",
+        "klassifikation",
+        "free",
+        "ocr",
+        "picture"
+      ],
+      "intraHash": "3ffc9d800805adb2fe90971c8aa308e0",
+      "label": "Book Klassifikation von Mustern",
+      "user": "sac",
+      "description": "Klassifikation von Mustern\r\nH. Niemann\r\nLehrstuhl f\u00fcr Mustererkennung\r\nUniversit\u00e4t Erlangen-N\u00fcrnberg",
+      "date": "2009-12-27 02:10:32",
+      "changeDate": "2009-12-27 02:10:32",
+      "count": 1,
+      "url": "http://www5.informatik.uni-erlangen.de/fileadmin/Persons/NiemannHeinrich/klassifikation-von-mustern/m00links.html"
+    },
+    {
+      "type": "Bookmark",
+      "id": "https://www.bibsonomy.org/url/f6df7728ed50894daf415047879ef41c/draganigajic",
+      "tags": [
+        "linux",
+        "googlebooks",
+        "software",
+        "wikipedia",
+        "google",
+        "ocr"
+      ],
+      "intraHash": "f6df7728ed50894daf415047879ef41c",
+      "label": "OCRopus - Wikipedia, the free encyclopedia",
+      "user": "draganigajic",
+      "description": "",
+      "date": "2011-07-13 18:12:28",
+      "changeDate": "2011-07-13 18:12:28",
+      "count": 1,
+      "url": "http://en.wikipedia.org/wiki/OCRopus"
+    },
+    {
+      "type": "Bookmark",
+      "id": "https://www.bibsonomy.org/url/23027d189b0af22b605aa515332f6f47/arademaker",
+      "tags": [
+        "ocr"
+      ],
+      "intraHash": "23027d189b0af22b605aa515332f6f47",
+      "label": "ocropus -  Project Hosting on Google Code",
+      "user": "arademaker",
+      "description": "",
+      "date": "2010-04-18 18:23:57",
+      "changeDate": "2011-01-04 20:18:07",
+      "count": 12,
+      "url": "http://code.google.com/p/ocropus/"
+    },
+    {
+      "type": "Bookmark",
+      "id": "https://www.bibsonomy.org/url/dacc21b9987bf5a7ce6034c65943d802/calidius",
+      "tags": [
+        "TEI",
+        "ia",
+        "Software",
+        "OCR"
+      ],
+      "intraHash": "dacc21b9987bf5a7ce6034c65943d802",
+      "label": "XSLT to Transform ABBYY Finereader XML into TEI | IslandLives",
+      "user": "calidius",
+      "description": "",
+      "date": "2010-09-29 18:03:51",
+      "changeDate": "2013-03-02 20:18:48",
+      "count": 1,
+      "url": "http://discoveryspace.upei.ca/islandlives.ca/node/130"
+    },
+    {
+      "type": "Bookmark",
+      "id": "https://www.bibsonomy.org/url/028f933758571295859b6d8676e61c21/jaj",
+      "tags": [
+        "digitization",
+        "ocr"
+      ],
+      "intraHash": "028f933758571295859b6d8676e61c21",
+      "label": "Impact | Improving access to text : Home",
+      "user": "jaj",
+      "description": "IMPACT is a Centre of Competence that makes digitisation of historical printed text in Europe faster, cheaper and better, and provides tools, services and facilities for further advancement of the State of the Art in this field.",
+      "date": "2013-01-05 20:48:31",
+      "changeDate": "2013-01-05 20:48:31",
+      "count": 2,
+      "url": "http://www.impact-project.eu/"
+    },
+    {
+      "type": "Bookmark",
+      "id": "https://www.bibsonomy.org/url/87e3b662d63c318e2526c18025cca5bb/jaj",
+      "tags": [
+        "tools",
+        "ocr"
+      ],
+      "intraHash": "87e3b662d63c318e2526c18025cca5bb",
+      "label": "GOCR, JOCR",
+      "user": "jaj",
+      "description": "optical character recognition software. links to related software.",
+      "date": "2013-04-02 20:20:23",
+      "changeDate": "2013-04-02 20:20:24",
+      "count": 1,
+      "url": "http://jocr.sourceforge.net/links.html"
+    },
+    {
+      "type": "Bookmark",
       "id": "https://www.bibsonomy.org/url/3bb1e28c020db5c7f61b3f00dbc30050/bshanks",
       "tags": [
         "pdf",
@@ -3773,6 +3753,26 @@
       "changeDate": "2021-11-29 04:02:24",
       "count": 1,
       "url": "http://www.tobias-elze.de/pdfsandwich/"
+    },
+    {
+      "type": "Bookmark",
+      "id": "https://www.bibsonomy.org/url/255d84df7891cfdecd432b28fb5319fa/selm",
+      "tags": [
+        "eL3\u20ac7",
+        "Lesezeichen-Symbolleiste",
+        "public",
+        "office",
+        "ocr",
+        "userland"
+      ],
+      "intraHash": "255d84df7891cfdecd432b28fb5319fa",
+      "label": "JOCR",
+      "user": "selm",
+      "description": "",
+      "date": "2020-07-25 23:17:09",
+      "changeDate": "2020-07-25 23:42:37",
+      "count": 6,
+      "url": "http://jocr.sourceforge.net/"
     },
     {
       "type": "Bookmark",
@@ -21026,6 +21026,38 @@
       "volume": "abs/1911.06845",
       "ee": "http://arxiv.org/abs/1911.06845",
       "bibtexKey": "journals/corr/abs-1911-06845"
+    },
+    {
+      "type": "Publication",
+      "id": "https://www.bibsonomy.org/bibtex/233bd80f58ed2e39213e21c06ee31f7d0/genealogie",
+      "tags": [
+        "dnb",
+        "merged:genealogie",
+        "Gesundheit",
+        "Medizin"
+      ],
+      "intraHash": "33bd80f58ed2e39213e21c06ee31f7d0",
+      "interHash": "4fa82b0881f589a644374db68feb2eb0",
+      "label": "Entwicklung und Entwurf eines Klarschriftbeleges zur computergerechten, standardisierten Erfassung der Anamnesedaten in der HNO-Klinik, konzipiert f\u00fcr OCR-Schrift",
+      "user": "genealogie",
+      "description": "",
+      "date": "2015-09-09 01:34:03",
+      "changeDate": "2015-09-09 01:34:03",
+      "count": 1,
+      "pub-type": "phdthesis",
+      "year": "1977",
+      "url": "",
+      "author": [
+        "Andreas Peter Johannes Fiebach"
+      ],
+      "authors": [
+        {
+          "first": "Andreas Peter Johannes",
+          "last": "Fiebach"
+        }
+      ],
+      "dnbtitleid": "770819036",
+      "bibtexKey": "fiebach1977entwicklung"
     },
     {
       "type": "Publication",
@@ -47530,43 +47562,6 @@
       "ee": "http://dx.doi.org/10.1117/12.234711",
       "isbn": "978-0-8194-2034-3",
       "bibtexKey": "conf/drr/JaisimhaRLS96"
-    },
-    {
-      "type": "Publication",
-      "id": "https://www.bibsonomy.org/bibtex/213abeeca36a300b45694f7b07a18dd25/dblp",
-      "tags": [
-        "merged:dblp",
-        "dblp"
-      ],
-      "intraHash": "13abeeca36a300b45694f7b07a18dd25",
-      "interHash": "7bb01b38b213cd9ec4da6eade8120625",
-      "label": "OCR of historical printings with an application to building diachronic corpora: A case study using the RIDGES herbal corpus.",
-      "user": "dblp",
-      "description": "",
-      "date": "2018-08-13 00:00:00",
-      "changeDate": "2018-08-14 13:54:44",
-      "count": 1,
-      "pub-type": "article",
-      "journal": "CoRR",
-      "year": "2016",
-      "url": "http://dblp.uni-trier.de/db/journals/corr/corr1608.html#SpringmannL16",
-      "author": [
-        "Uwe Springmann",
-        "Anke L\u00fcdeling"
-      ],
-      "authors": [
-        {
-          "first": "Uwe",
-          "last": "Springmann"
-        },
-        {
-          "first": "Anke",
-          "last": "L\u00fcdeling"
-        }
-      ],
-      "volume": "abs/1608.02153",
-      "ee": "http://arxiv.org/abs/1608.02153",
-      "bibtexKey": "journals/corr/SpringmannL16"
     },
     {
       "type": "Publication",

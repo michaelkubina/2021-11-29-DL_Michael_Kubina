@@ -5450,6 +5450,18 @@
   },
   {
     "id": 298,
+    "title": "Entwicklung und Entwurf eines Klarschriftbeleges zur computergerechten, standardisierten Erfassung der Anamnesedaten in der HNO-Klinik, konzipiert f\u00fcr OCR-Schrift",
+    "authors": [
+      "Andreas Peter Johannes Fiebach"
+    ],
+    "editors": [],
+    "year": "1977",
+    "url": "",
+    "bibtexKey": "fiebach1977entwicklung",
+    "bibsonomy_id": "https://www.bibsonomy.org/bibtex/233bd80f58ed2e39213e21c06ee31f7d0/genealogie"
+  },
+  {
+    "id": 299,
     "title": "Improving the Accuracy of Tesseract 4.0 OCR Engine Using Convolution-Based Preprocessing.",
     "authors": [
       "Dan Sporici",
@@ -5464,7 +5476,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/274c8174fa651bd0a0319c4a54df79585/dblp"
   },
   {
-    "id": 299,
+    "id": 300,
     "title": "Transcription Free LSTM OCR Model Evaluation.",
     "authors": [
       "Martin Jenckel",
@@ -5481,7 +5493,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a2e2b70bd95f94d6c13e653299bb8645/dblp"
   },
   {
-    "id": 300,
+    "id": 301,
     "title": "Can we build language-independent OCR using LSTM networks?",
     "authors": [
       "Adnan Ul-Hasan",
@@ -5504,7 +5516,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/20e5fe115b224b87a2c39c7cea41335f2/dblp"
   },
   {
-    "id": 301,
+    "id": 302,
     "title": "Language-independent OCR using a continuous speech recognition system.",
     "authors": [
       "Richard M. Schwartz",
@@ -5523,7 +5535,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/21415cc062a01730228a157c040592b25/dblp"
   },
   {
-    "id": 302,
+    "id": 303,
     "title": "A Processor-Based OCR System.",
     "authors": [
       "Richard G. Casey",
@@ -5537,7 +5549,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2c8094ba159ec8dabe2fb9e80f190b21c/dblp"
   },
   {
-    "id": 303,
+    "id": 304,
     "title": "Synchronous Morphological Analysis of Grapheme and Phoneme for Japanese OCR.",
     "authors": [
       "Masaaki Nagata"
@@ -5551,7 +5563,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/279d5e315ac62d9c7491527500e20425b/dblp"
   },
   {
-    "id": 304,
+    "id": 305,
     "title": "Reducing OCR Errors in Gothic-Script Documents.",
     "authors": [
       "Lenz Furrer",
@@ -5565,7 +5577,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2e475e6b70ec0cc663342b535133706b5/dblp"
   },
   {
-    "id": 305,
+    "id": 306,
     "title": "Recent progress on the OCRopus OCR system.",
     "authors": [
       "Thomas Breuel"
@@ -5585,7 +5597,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/20bfb9508623b7d68743411020e1765bc/dblp"
   },
   {
-    "id": 306,
+    "id": 307,
     "title": "An OCR system for the Meetei Mayek script.",
     "authors": [
       "Subhankar Ghosh",
@@ -5607,7 +5619,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/220b9870ef1b9d381981275a24c342b20/dblp"
   },
   {
-    "id": 307,
+    "id": 308,
     "title": "Limits on the Application of Frequency-Based Language Models to OCR.",
     "authors": [
       "Ray Smith"
@@ -5622,7 +5634,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2b67fada5ba81b3c23493264182cb46bd/dblp"
   },
   {
-    "id": 308,
+    "id": 309,
     "title": "The Impact of OCR Accuracy on Automatic Text Classification.",
     "authors": [
       "Guowei Zu",
@@ -5644,7 +5656,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2bbc29b788b7da9d69941d955cb9e0948/dblp"
   },
   {
-    "id": 309,
+    "id": 310,
     "title": "Efficient three dimensional rotation estimation for camera-based OCR.",
     "authors": [
       "Kanta Kuramoto",
@@ -5662,7 +5674,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/293d43849365b8701aea757921f33eb95/dblp"
   },
   {
-    "id": 310,
+    "id": 311,
     "title": "Segmentation of Touching Symbols for OCR of Printed Mathematical Expressions: An Approach based on Multifactorial Analysis.",
     "authors": [
       "Utpal Garain",
@@ -5678,7 +5690,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2b22d60e98c93be2586895adeee1e6eb2/dblp"
   },
   {
-    "id": 311,
+    "id": 312,
     "title": "Combining deep learning and language modeling for segmentation-free OCR from raw pixels.",
     "authors": [
       "Stephen Rawls",
@@ -5696,7 +5708,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2627db4856d1e5242a95aafbd31b0caa4/dblp"
   },
   {
-    "id": 312,
+    "id": 313,
     "title": "Combining Convolutional Neural Networks and LSTMs for Segmentation-Free OCR.",
     "authors": [
       "Stephen Rawls",
@@ -5714,7 +5726,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/25d34a870b494fcb35ea2ce2568fc8205/dblp"
   },
   {
-    "id": 313,
+    "id": 314,
     "title": "Counting OCR errors in typeset text.",
     "authors": [
       "Jonathan S. Sandberg"
@@ -5732,7 +5744,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/27533d64ac4ef4520e37db458526e7b43/dblp"
   },
   {
-    "id": 314,
+    "id": 315,
     "title": "Stochastic Error-Correcting Parsing for OCR Post-Processing.",
     "authors": [
       "Juan Carlos P\u00e9rez-Cortes",
@@ -5750,7 +5762,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2b075a5f11d9ee51df45a2a5d55e6016a/dblp"
   },
   {
-    "id": 315,
+    "id": 316,
     "title": "A Document Analysis System Based on Text Line Matching of Multiple OCR Outputs.",
     "authors": [
       "Yasuaki Nakano",
@@ -5772,7 +5784,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2ad68c483d089df7f4ba46a38c67a8b52/dblp"
   },
   {
-    "id": 316,
+    "id": 317,
     "title": "Ground Truth for training OCR engines on historical documents in German Fraktur and Early Modern Latin.",
     "authors": [
       "Uwe Springmann",
@@ -5788,7 +5800,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2894486efa3e544e9c48ae1e043df4c9f/dblp"
   },
   {
-    "id": 317,
+    "id": 318,
     "title": "Quantifying the impact of dirty OCR on historical text analysis: Eighteenth Century Collections Online as a case study.",
     "authors": [
       "Mark J. Hill",
@@ -5802,7 +5814,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/262af656e931b904f216a52f5ea6386e4/dblp"
   },
   {
-    "id": 318,
+    "id": 319,
     "title": "Leveraging Text Repetitions and Denoising Autoencoders in OCR Post-correction.",
     "authors": [
       "Kai Hakala",
@@ -5819,7 +5831,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a4bde7f43216429e29585ec5ec2e2ce2/dblp"
   },
   {
-    "id": 319,
+    "id": 320,
     "title": "Neural network based OCR for keg identification.",
     "authors": [
       "A. Keir",
@@ -5837,7 +5849,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/27e761609928d3e412dfa4fb430f2b4de/dblp"
   },
   {
-    "id": 320,
+    "id": 321,
     "title": "An experimental HMM-based postal OCR system.",
     "authors": [
       "Andr\u00e1s Kornai"
@@ -5852,7 +5864,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2ed0993788bee1e9d7b6e49c44049950b/dblp"
   },
   {
-    "id": 321,
+    "id": 322,
     "title": "The hOCR Microformat for OCR Workflow and Results.",
     "authors": [
       "Thomas M. Breuel"
@@ -5867,7 +5879,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2e0f0ad90252f20eaef6283f89b57dd1a/dblp"
   },
   {
-    "id": 322,
+    "id": 323,
     "title": "Adaptive Edit-Distance and Regression Approach for Post-OCR Text Correction.",
     "authors": [
       "Thi-Tuyet-Hai Nguyen",
@@ -5890,7 +5902,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a5ce9abe05fb38a9324efcc10468e0a9/dblp"
   },
   {
-    "id": 323,
+    "id": 324,
     "title": "Setting up a competition framework for the evaluation of structure extraction from OCR-ed books.",
     "authors": [
       "Antoine Doucet",
@@ -5908,7 +5920,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/29478e8be42817ccea996cc53d067a501/dblp"
   },
   {
-    "id": 324,
+    "id": 325,
     "title": "Morphological Preprocessing and Binarization for OCR Systems.",
     "authors": [
       "F. Miquel Cumplido Gonz\u00e1lez",
@@ -5929,7 +5941,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2f8f7e699cec6d5a4fdf4d27830b0a7bf/dblp"
   },
   {
-    "id": 325,
+    "id": 326,
     "title": "Amalgamated Approach for Devanagari Script Corpus for OCR & Demographic Purpose and XML for Linguistic Annotation.",
     "authors": [
       "Maninder Singh Nehra",
@@ -5954,7 +5966,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/23c9a0ee548854edeb44cb7de88456029/dblp"
   },
   {
-    "id": 326,
+    "id": 327,
     "title": "Secure Arabic Handwritten CAPTCHA Generation Using OCR Operations.",
     "authors": [
       "Suliman A. Alsuhibany",
@@ -5970,7 +5982,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2e4136dd917ee646d997721406266a9bb/dblp"
   },
   {
-    "id": 327,
+    "id": 328,
     "title": "OmniPage vs. Sakhr: paired model evaluation of two Arabic OCR products.",
     "authors": [
       "Tapas Kanungo",
@@ -5990,7 +6002,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/20ca129c4b267edf88e86c28b4df9ae9d/dblp"
   },
   {
-    "id": 328,
+    "id": 329,
     "title": "Improved Mixed Thai and English OCR Using Two-Step Neural Net Classification.",
     "authors": [
       "Chularat Tanprasert",
@@ -6013,7 +6025,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/220feb8fa406ae77d410f452e3f249478/dblp"
   },
   {
-    "id": 329,
+    "id": 330,
     "title": "Deep Statistical Analysis of OCR Errors for Effective Post-OCR Processing",
     "authors": [
       "A Jatowt",
@@ -6030,7 +6042,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/24ac26ed45efc0639f7568545179aff6d/mcoustat"
   },
   {
-    "id": 330,
+    "id": 331,
     "title": "Lexicon-supported OCR of eighteenth century Dutch books: a case study.",
     "authors": [
       "Jesse de Does",
@@ -6049,7 +6061,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2aedac5c68f1d845003cd591e5bc8c9b0/dblp"
   },
   {
-    "id": 331,
+    "id": 332,
     "title": "OCR-Free Transcript Alignment.",
     "authors": [
       "Tal Hassner",
@@ -6066,7 +6078,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/22a5edeff74d55d7740e93b1fd51284aa/dblp"
   },
   {
-    "id": 332,
+    "id": 333,
     "title": "Using a partitioned dictionary for contextual post-processing of OCR-results.",
     "authors": [
       "Rainer Hoch",
@@ -6083,7 +6095,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/209f703b06940efdd92d69d8daae7bd96/dblp"
   },
   {
-    "id": 333,
+    "id": 334,
     "title": "Multi-Resolution Classification Trees in OCR Design.",
     "authors": [
       "Marcel Brun",
@@ -6103,7 +6115,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2ad6656c930a9e724e04883eb783b7eb4/dblp"
   },
   {
-    "id": 334,
+    "id": 335,
     "title": "OCR-Oriented Automatic Document Orientation Correcting Technique for Mobile Image Scanners.",
     "authors": [
       "Kenichiro Sakai",
@@ -6121,7 +6133,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/204ff82735a3235a447e10ade34763ee7/dblp"
   },
   {
-    "id": 335,
+    "id": 336,
     "title": "Adaptive post-processing of OCR text via knowledge acquisition.",
     "authors": [
       "Lon-Mu Liu",
@@ -6142,7 +6154,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2596261a5deec788c138686841ce6b438/dblp"
   },
   {
-    "id": 336,
+    "id": 337,
     "title": "Extracting person names from diverse and noisy OCR text.",
     "authors": [
       "Thomas L. Packer",
@@ -6170,7 +6182,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2c1050dc0507569ecb2307884326109b6/dblp"
   },
   {
-    "id": 337,
+    "id": 338,
     "title": "OCR-based chassis-number recognition using artificial neural networks.",
     "authors": [
       "Parul Shah",
@@ -6190,7 +6202,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2dc822e63faabf9e00f520b7689b77aa0/dblp"
   },
   {
-    "id": 338,
+    "id": 339,
     "title": "An old greek handwritten OCR system based on an efficient segmentation-free approach.",
     "authors": [
       "Kostas Ntzios",
@@ -6207,7 +6219,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/21dc0c1592339882c0c1b5d4de1916498/dblp"
   },
   {
-    "id": 339,
+    "id": 340,
     "title": "Arabic OCR Error Correction Using Character Segment Correction, Language Modeling, and Shallow Morphology.",
     "authors": [
       "Walid Magdy",
@@ -6226,7 +6238,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/29332222e47a4f41b27369665c1202801/dblp"
   },
   {
-    "id": 340,
+    "id": 341,
     "title": "Optimal Feature Extraction for Bilingual OCR.",
     "authors": [
       "D. Dhanya",
@@ -6246,7 +6258,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2cd7fd14e21881062c02b920622a06641/dblp"
   },
   {
-    "id": 341,
+    "id": 342,
     "title": "Video OCR: A Survey and Practitioner's Guide",
     "authors": [
       "Rainer Lienhart"
@@ -6258,7 +6270,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2388658fb0285b9b37b55c135143167b3/cwillems"
   },
   {
-    "id": 342,
+    "id": 343,
     "title": "Evaluation and Application of Recognition Confidence in OCR.",
     "authors": [
       "Xiaofan Lin",
@@ -6280,7 +6292,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/23d57f697a33f8fa1f4ce0dfd0bfd9e11/dblp"
   },
   {
-    "id": 343,
+    "id": 344,
     "title": "Hybrid OCR Combination for Ancient Documents.",
     "authors": [
       "Hubert Cecotti",
@@ -6301,7 +6313,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/235e3e37e077824f62187de95f9ae2245/dblp"
   },
   {
-    "id": 344,
+    "id": 345,
     "title": "A Simple OCR Method from Strong Perspective View.",
     "authors": [
       "Mi-Ae Ko",
@@ -6317,7 +6329,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2fbdbcb8ee968bddd81fa5fb71e4d250a/dblp"
   },
   {
-    "id": 345,
+    "id": 346,
     "title": "An analog card capacity correlator as applied to OCR.",
     "authors": [
       "George G. Gorbatenko"
@@ -6331,7 +6343,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/242463ec89761e9500dcf3ead43423730/dblp"
   },
   {
-    "id": 346,
+    "id": 347,
     "title": "OCR as a Service: An Experimental Evaluation of Google Docs OCR, Tesseract, ABBYY FineReader, and Transym.",
     "authors": [
       "Ahmad Pahlavan Tafti",
@@ -6364,7 +6376,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2e452f29b5b1b84d81146f3bccafe993f/dblp"
   },
   {
-    "id": 347,
+    "id": 348,
     "title": "A Bilingual OCR for Hindi-Telugu Documents and its Applications.",
     "authors": [
       "C. V. Jawahar",
@@ -6381,7 +6393,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/284556c887076c3ca431b5cb04218d002/dblp"
   },
   {
-    "id": 348,
+    "id": 349,
     "title": "An OCR System with OCRopus for Scientific Documents Containing Mathematical Formulas.",
     "authors": [
       "Fumihiro Furukori",
@@ -6400,7 +6412,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2e91833dc070e6ef53cf60759b6d2e1a9/dblp"
   },
   {
-    "id": 349,
+    "id": 350,
     "title": "A Generative Probabilistic OCR Model for NLP Applications.",
     "authors": [
       "Okan Kolak",
@@ -6419,7 +6431,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/27cf7158b581e46ddeebfa6d4432280c1/dblp"
   },
   {
-    "id": 350,
+    "id": 351,
     "title": "StreetOCRCorrect: An Interactive Framework for OCR Corrections in Chaotic Indian Street Videos.",
     "authors": [
       "Pankaj Singh",
@@ -6438,7 +6450,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/23ae2eec99b665b96c4caf7fa0094f9b4/dblp"
   },
   {
-    "id": 351,
+    "id": 352,
     "title": "High-Performance Preprocessing of Architectural Drawings for Legend Metadata Extraction via OCR.",
     "authors": [
       "Tamir Hassan",
@@ -6458,7 +6470,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2c8f5694161ac191ab6651dade0c4db9d/dblp"
   },
   {
-    "id": 352,
+    "id": 353,
     "title": "Chargrid-OCR: End-to-end trainable Optical Character Recognition through Semantic Segmentation and Object Detection.",
     "authors": [
       "Christian Reisswig",
@@ -6474,7 +6486,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2f7e0048842a3e5871d6a4862113e8ba0/dblp"
   },
   {
-    "id": 353,
+    "id": 354,
     "title": "Recognition of Handwritten Textual Annotations using Tesseract Open Source OCR Engine for information Just In Time (iJIT)",
     "authors": [
       "Sandip Rakshit",
@@ -6489,7 +6501,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/20a3ed99d2e4daaf9562f73cf0e4145f9/dblp"
   },
   {
-    "id": 354,
+    "id": 355,
     "title": "A Novel OCR System for Calculating Handwritten Persian Arithmetic Expressions.",
     "authors": [
       "Sirvan Khalighi",
@@ -6513,7 +6525,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2f1598bc48cef30b6abbb32a53d31e756/dblp"
   },
   {
-    "id": 355,
+    "id": 356,
     "title": "A post-classification scheme for an OCR system for the notation of the Orthodox Hellenic Byzantine Music.",
     "authors": [
       "Velissarios G. Gezerlis",
@@ -6529,7 +6541,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a71f22a2f315755e9886ef7d7f19fffc/dblp"
   },
   {
-    "id": 356,
+    "id": 357,
     "title": "Effect of OCR error correction on Arabic retrieval.",
     "authors": [
       "Walid Magdy",
@@ -6543,7 +6555,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2382fc8c9120087093c825f4510408abc/dblp"
   },
   {
-    "id": 357,
+    "id": 358,
     "title": "Impact of Crowdsourcing OCR Improvements on Retrievability Bias.",
     "authors": [
       "Myriam C. Traub",
@@ -6567,7 +6579,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2e7735f0e1d3585e808570b4187deb7ef/dblp"
   },
   {
-    "id": 358,
+    "id": 359,
     "title": "OCRoRACT: A Sequence Learning OCR System Trained on Isolated Characters.",
     "authors": [
       "Adnan Ul-Hasan",
@@ -6584,7 +6596,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/266989f9fd71c0f4b04765d89e5f8ec2b/dblp"
   },
   {
-    "id": 359,
+    "id": 360,
     "title": "Optical character recognition in microfilmed newspaper library collections. A feasibility study",
     "authors": [
       "Riitta Alkula",
@@ -6599,7 +6611,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/210788a866a7f956f5dfc0727d4a13615/cirrus"
   },
   {
-    "id": 360,
+    "id": 361,
     "title": "Sequence-to-Label Script Identification for Multilingual OCR.",
     "authors": [
       "Yasuhisa Fujii",
@@ -6618,7 +6630,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2ad274331ada0389ebdc6fe6ad8a4997b/dblp"
   },
   {
-    "id": 361,
+    "id": 362,
     "title": "OCR Accuracy Improvement through a PDE-Based Approach.",
     "authors": [
       "Fadoua Drira",
@@ -6635,7 +6647,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2b5f1b7cda95d78d75b41ba2550e390f3/dblp"
   },
   {
-    "id": 362,
+    "id": 363,
     "title": "A Comparison of Four Character-Level String-to-String Translation Models for (OCR) Spelling Error Correction.",
     "authors": [
       "Steffen Eger",
@@ -6650,7 +6662,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/27055b3175595909d612e010bdefacf06/dblp"
   },
   {
-    "id": 363,
+    "id": 364,
     "title": "Kodak ImagelinkTM OCR Alphanumeric Handprint Module.",
     "authors": [
       "Alexander Shustorovich",
@@ -6670,7 +6682,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2bbbdb99818a70750765eaf33adc29b5d/dblp"
   },
   {
-    "id": 364,
+    "id": 365,
     "title": "On the Accuracy of CRNNs for Line-Based OCR: A Multi-Parameter Evaluation.",
     "authors": [
       "Bernhard Liebl",
@@ -6684,7 +6696,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/269789bdcd48b1be985f5765176619ba5/dblp"
   },
   {
-    "id": 365,
+    "id": 366,
     "title": "Context-Dependent Confusions Rules for Building Error Model Using Weighted Finite State Transducers for OCR Post-Processing.",
     "authors": [
       "Mayce Ibrahim Ali Al Azawi",
@@ -6706,7 +6718,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/20144efe522f663fd20462d3fcfaea666/dblp"
   },
   {
-    "id": 366,
+    "id": 367,
     "title": "Breaking News Recognition Using OCR.",
     "authors": [
       "Ahmed Ridwan",
@@ -6728,7 +6740,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/26dae9ab412fc61e15af5abf81a8aeac1/dblp"
   },
   {
-    "id": 367,
+    "id": 368,
     "title": "Statistical learning for OCR error correction.",
     "authors": [
       "Jie Mei",
@@ -6745,7 +6757,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/209f4b018327578e4f42c715238d93837/dblp"
   },
   {
-    "id": 368,
+    "id": 369,
     "title": "Towards a Ptolemaic Model for OCR.",
     "authors": [
       "Sriharsha Veeramachaneni",
@@ -6761,7 +6773,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/26ee350ecaa75525c7d571c6b5072910f/dblp"
   },
   {
-    "id": 369,
+    "id": 370,
     "title": "OCR in a Hierarchical Feature Space.",
     "authors": [
       "Jaehwa Park",
@@ -6776,7 +6788,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2b87de947fabcd68cab25976070de85d0/dblp"
   },
   {
-    "id": 370,
+    "id": 371,
     "title": "A Serial Combination of Neural Network for Arabic OCR.",
     "authors": [
       "Leila Chergui",
@@ -6797,7 +6809,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2c3fc00e5fbd69ea099065a3cd7150856/dblp"
   },
   {
-    "id": 371,
+    "id": 372,
     "title": "Syntactic Detection and Correction of Misrecognitions in Mathematical OCR.",
     "authors": [
       "Akio Fujiyoshi",
@@ -6814,7 +6826,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/236f075db2eb3c5aaad8d22408f277252/dblp"
   },
   {
-    "id": 372,
+    "id": 373,
     "title": "Research on OCR Post-processing Applications for Handwritten Recognition Based on Analysis of Scientific Materials.",
     "authors": [
       "Zhijuan Hu",
@@ -6834,7 +6846,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/29c33a201268449ec13356143c51efe28/dblp"
   },
   {
-    "id": 373,
+    "id": 374,
     "title": "Der oculocardiale Reflex (OCR) bei Kindern mit Schiel-Operationen und HNO-\u00e4rztlichen Eingriffen",
     "authors": [
       "Henriette Schatke"
@@ -6846,7 +6858,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/24c7a449b464737657140596bdff8d181/genealogie"
   },
   {
-    "id": 374,
+    "id": 375,
     "title": "Using ASR Methods for OCR.",
     "authors": [
       "Ashish Arora",
@@ -6874,7 +6886,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/20a38ac8f8d792d15e4f91a9d05a66888/dblp"
   },
   {
-    "id": 375,
+    "id": 376,
     "title": "Statistical Learning for OCR Text Correction.",
     "authors": [
       "Jie Mei",
@@ -6891,7 +6903,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/29ac0ebaa9d7170759006850cce996b37/dblp"
   },
   {
-    "id": 376,
+    "id": 377,
     "title": "An OCR system for business cards.",
     "authors": [
       "Hisashi Saiga",
@@ -6909,7 +6921,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/244c6c33218e461d0d44f43850e71d71f/dblp"
   },
   {
-    "id": 377,
+    "id": 378,
     "title": "Using Field Interdependence to Improve Correction Performance in a Transducer-Based OCR Post-Processing System.",
     "authors": [
       "Juan Carlos P\u00e9rez-Cortes",
@@ -6927,7 +6939,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/28f15ec14b9d8f3eea1473ede8ec63bce/dblp"
   },
   {
-    "id": 378,
+    "id": 379,
     "title": "Baidu Meizu Deep Learning Competition: Arithmetic Operation Recognition Using End-to-End Learning OCR Technologies.",
     "authors": [
       "Yuxiang Jiang",
@@ -6942,7 +6954,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2e7cda95e72f05bf9005e96083470d700/dblp"
   },
   {
-    "id": 379,
+    "id": 380,
     "title": "OCR with No Shape Training.",
     "authors": [
       "Tin Kam Ho",
@@ -6958,7 +6970,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/220cb7563c4c208f1f0cc293559cf7232/dblp"
   },
   {
-    "id": 380,
+    "id": 381,
     "title": "Binary Document Image Super Resolution for Improved Readability and OCR Performance.",
     "authors": [
       "Ram Krishna Pandey",
@@ -6974,7 +6986,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/285eff5789be98065b9e4f1340f12ca06/dblp"
   },
   {
-    "id": 381,
+    "id": 382,
     "title": "The Same is Not The same - Post Correction of Alphabet Confusion Errors in Mixed-Alphabet OCR Recognation.",
     "authors": [
       "Christoph Ringlstetter",
@@ -6992,7 +7004,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2ab6e84701a96dfd8fa8acf050ae198d8/dblp"
   },
   {
-    "id": 382,
+    "id": 383,
     "title": "An OCR-Enabled Digital Comic Books Viewer.",
     "authors": [
       "Christophe Ponsard",
@@ -7014,7 +7026,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/256289c60173692c4e05b1dff63685412/dblp"
   },
   {
-    "id": 383,
+    "id": 384,
     "title": "A hierarchical, HMM-based automatic evaluation of OCR accuracy for a digital library of books.",
     "authors": [
       "Shaolei Feng",
@@ -7034,7 +7046,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/24ade0e1f33144aea07ad060aefe994a5/dblp"
   },
   {
-    "id": 384,
+    "id": 385,
     "title": "Recognition of OCR Invoice Metadata Block Types.",
     "authors": [
       "Hien T. Ha",
@@ -7057,7 +7069,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2f2b36decb535ea3f1155a4d8eab48003/dblp"
   },
   {
-    "id": 385,
+    "id": 386,
     "title": "Algorithmen und Methoden zur dokumentenspezifischen Analyse historischer und OCR-erfasster Texte",
     "authors": [
       "Ulrich Reffle"
@@ -7069,7 +7081,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2c4bede7df72db082cbbaa9ccf1bb0611/genealogie"
   },
   {
-    "id": 386,
+    "id": 387,
     "title": "Adaptive classifiers for multisource OCR.",
     "authors": [
       "Sriharsha Veeramachaneni",
@@ -7083,7 +7095,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2c11acab1bf4264afdf50288fece0ca6d/dblp"
   },
   {
-    "id": 387,
+    "id": 388,
     "title": "An efficient segmentation-free approach to assist old Greek handwritten manuscript OCR.",
     "authors": [
       "Basilios Gatos",
@@ -7101,7 +7113,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/219b2a2f2f92520bf60b92c01460f5902/dblp"
   },
   {
-    "id": 388,
+    "id": 389,
     "title": "Quality of OCR for degraded Text Images",
     "authors": [
       "Roger Hartley",
@@ -7114,7 +7126,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2347bc434d57a2ebc832ceda2d1a84ef5/cirrus"
   },
   {
-    "id": 389,
+    "id": 390,
     "title": "Optimal frame-by-frame result combination strategy for OCR in video stream.",
     "authors": [
       "Konstantin B. Bulatov",
@@ -7136,7 +7148,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/228e1671cee8d83afd582bfa6c20a54fb/dblp"
   },
   {
-    "id": 390,
+    "id": 391,
     "title": "An Enhanced Offline Printed Arabic OCR Model Based on Bio-Inspired Fuzzy Classifier.",
     "authors": [
       "Saad Mohamed Darwish",
@@ -7150,7 +7162,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2dc567813f8253d043f88488fb0a446a9/dblp"
   },
   {
-    "id": 391,
+    "id": 392,
     "title": "Preprocessing and presorting of envelope images for automatic sorting using OCR.",
     "authors": [
       "Andy C. Downton",
@@ -7164,7 +7176,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2268ce1b41598a35760204e6f64bbaeee/dblp"
   },
   {
-    "id": 392,
+    "id": 393,
     "title": "A Bilingual Machine-Interface OCR for Printed Kannada and English Text Employing Wavelet Features.",
     "authors": [
       "R. Sanjeev Kunte",
@@ -7180,7 +7192,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/26c12495ea16b8eb928057d0fe737fb7a/dblp"
   },
   {
-    "id": 393,
+    "id": 394,
     "title": "OCR methods applied to images of historical coins",
     "authors": [
       "Christan Kotz"
@@ -7193,7 +7205,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2c222683e5723299aa3c9726c6f30302e/cocus"
   },
   {
-    "id": 394,
+    "id": 395,
     "title": "A text detection, localization and segmentation system for OCR in images.",
     "authors": [
       "Julinda Gllavata",
@@ -7210,7 +7222,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/27d96c4bb5f2a4586a34026d5924e8197/dblp"
   },
   {
-    "id": 395,
+    "id": 396,
     "title": "Multivariate adaptive regression spline (MARS) and least squares support vector machine (LSSVM) for OCR prediction.",
     "authors": [
       "Pijush Samui",
@@ -7224,7 +7236,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/23c69ad23985e0b95f729873586e150c5/dblp"
   },
   {
-    "id": 396,
+    "id": 397,
     "title": "An Investigative Analysis of Different LSTM Libraries for Supervised and Unsupervised Architectures of OCR Training.",
     "authors": [
       "Syed Saqib Bukhari",
@@ -7242,7 +7254,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2d07c36becdd907ec5788ef1b3324de3a/dblp"
   },
   {
-    "id": 397,
+    "id": 398,
     "title": "A Novel Approach to Skeletonization for Multi-font OCR Applications.",
     "authors": [
       "C. Vasantha Lakshmi",
@@ -7266,7 +7278,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/20390a004c12b4b611c27d2d8c65cc87c/dblp"
   },
   {
-    "id": 398,
+    "id": 399,
     "title": "Retrieving and Combining Repeated Passages to Improve OCR.",
     "authors": [
       "Shaobin Xu",
@@ -7282,7 +7294,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2b8e658d8f238a1008819714670b89e4a/dblp"
   },
   {
-    "id": 399,
+    "id": 400,
     "title": "OCR Post-Correction Evaluation of Early Dutch Books Online - Revisited.",
     "authors": [
       "Martin Reynaert"
@@ -7308,7 +7320,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/29cf6f957e314131e0af041dfbeea5dec/dblp"
   },
   {
-    "id": 400,
+    "id": 401,
     "title": "A unified scheme of text localization and structured data extraction for joint OCR and data mining.",
     "authors": [
       "Yibin Ye",
@@ -7344,7 +7356,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2aae53c2b83c95dff36b955dabe0acd03/dblp"
   },
   {
-    "id": 401,
+    "id": 402,
     "title": "Binarization-free OCR for historical documents using LSTM networks.",
     "authors": [
       "Mohammad Reza Yousefi",
@@ -7363,7 +7375,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2b0443733d1019fd94ef8e2602d4e623a/dblp"
   },
   {
-    "id": 402,
+    "id": 403,
     "title": "Restoring high-resolution text images to improve legibility and OCR accuracy.",
     "authors": [
       "Hirobumi Nishida"
@@ -7381,7 +7393,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2490d1ef1aefbb7ecc0e0f4094cae7dc4/dblp"
   },
   {
-    "id": 403,
+    "id": 404,
     "title": "Development of a multi-user handwriting recognition system using Tesseract open source OCR engine",
     "authors": [
       "Sandip Rakshit",
@@ -7395,7 +7407,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2da1403cae9939556220a948b8634a070/dblp"
   },
   {
-    "id": 404,
+    "id": 405,
     "title": "Automatic Lecture Video Indexing Using Video OCR Technology",
     "authors": [
       "Haojin Yang",
@@ -7411,7 +7423,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2b2ea5b8e7dee89d53a73de1e1fa502f9/lysander07"
   },
   {
-    "id": 405,
+    "id": 406,
     "title": "Fast Convolutional OCR with the Scanning N-Tuple Grid.",
     "authors": [
       "Simon M. Lucas",
@@ -7427,7 +7439,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2540a42e17e97798b5b3dc0cb6fe14651/dblp"
   },
   {
-    "id": 406,
+    "id": 407,
     "title": "Knowledge Inference Model of OCR Conversion Error Rules Based on Chinese Character Construction Attributes Knowledge Graph.",
     "authors": [
       "Xiaowen Zhang",
@@ -7449,7 +7461,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2d330f0f0046a4dad9602d40491f6b998/dblp"
   },
   {
-    "id": 407,
+    "id": 408,
     "title": "Improvements in hidden Markov model based Arabic OCR.",
     "authors": [
       "Rohit Prasad",
@@ -7468,7 +7480,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/202c82e934dd670b6b15b3e8467e80911/dblp"
   },
   {
-    "id": 408,
+    "id": 409,
     "title": "Application for AI-OCR Module: Auto Detection of Emails/Letter Images.",
     "authors": [
       "Kelsey Fargas",
@@ -7488,7 +7500,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/26bbab5e0a17cff516a9de51840cf5377/dblp"
   },
   {
-    "id": 409,
+    "id": 410,
     "title": "Realization of a high performance bilingual OCR system for Thai-English printed documents.",
     "authors": [
       "Supachai Tangwongsan",
@@ -7504,7 +7516,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/29553b1737fb1f8f2e4385191cfe65e8a/dblp"
   },
   {
-    "id": 410,
+    "id": 411,
     "title": "Quantitative Computed Tomography (QCT) as a Radiology Reporting Tool by Using Optical Character Recognition (OCR) and Macro Program.",
     "authors": [
       "Young Han Lee",
@@ -7519,7 +7531,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2edf17646549570887f8cb6a76201b066/dblp"
   },
   {
-    "id": 411,
+    "id": 412,
     "title": "OCR of Printed Telugu Text with High Recognition Accuracies.",
     "authors": [
       "C. Vasantha Lakshmi",
@@ -7539,7 +7551,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/27705e7af9bd1a0661189ba0a7c289918/dblp"
   },
   {
-    "id": 412,
+    "id": 413,
     "title": "Automatic cataloguing and searching for retrospective data by use of OCR text.",
     "authors": [
       "Yuen-Hsien Tseng"
@@ -7552,7 +7564,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2296fad0e1ef3c27dbed9264884372107/dblp"
   },
   {
-    "id": 413,
+    "id": 414,
     "title": "Post OCR Correction of Swedish Patent Text - The Difference between Reading Tongue 'L\u00e4stunga' and Security Tab 'L\u00e5stunga'.",
     "authors": [
       "Linda Andersson",
@@ -7572,7 +7584,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/225a0ac013f73b4a73f33fe1cd14cc062/dblp"
   },
   {
-    "id": 414,
+    "id": 415,
     "title": "Mining for the Meanings of a Murder: The Impact of OCR Quality on the Use of Digitized Historical Newspapers.",
     "authors": [
       "Carolyn Strange",
@@ -7588,7 +7600,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2afb751758a71f214c92c9666302d5f2b/dblp"
   },
   {
-    "id": 415,
+    "id": 416,
     "title": "Learning features for predicting OCR accuracy.",
     "authors": [
       "Peng Ye",
@@ -7604,7 +7616,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/26cec7cee090a0d4fd47acb262bf148ad/dblp"
   },
   {
-    "id": 416,
+    "id": 417,
     "title": "Recursive Recurrent Nets with Attention Modeling for OCR in the Wild.",
     "authors": [
       "Chen-Yu Lee",
@@ -7618,7 +7630,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2c8daa00e0d2bf9b5c1bc6ab39e03ab04/dblp"
   },
   {
-    "id": 417,
+    "id": 418,
     "title": "On performance analysis of end-to-end OCR systems of Indic scripts.",
     "authors": [
       "P. Pavan Kumar",
@@ -7638,7 +7650,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/26908fee48cbe88ad90171913f95f5b15/dblp"
   },
   {
-    "id": 418,
+    "id": 419,
     "title": "A Document Retrieval Method from Handwritten Characters Based on OCR and Character Shape Information.",
     "authors": [
       "Taizo Kameshiro",
@@ -7656,7 +7668,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2e761ba39b738df93f22e23497f000275/dblp"
   },
   {
-    "id": 419,
+    "id": 420,
     "title": "Historische Wetterdaten im Spannungsfeld von OCR und UCD.",
     "authors": [
       "Constantin Lehenmeier",
@@ -7674,7 +7686,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/271f7f8854b70eb4cdf659b739db09b9e/dblp"
   },
   {
-    "id": 420,
+    "id": 421,
     "title": "Machine Learning in the Field of Optical Character Recognition OCR",
     "authors": [
       "Mr. Rishabh Dubey"
@@ -7687,7 +7699,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2851ea50bb15fbce44d4f3df9025e5bf5/ijtsrd"
   },
   {
-    "id": 421,
+    "id": 422,
     "title": "Software tools and test data for research and testing of page-reading OCR systems.",
     "authors": [
       "Thomas A. Nartker",
@@ -7707,7 +7719,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/280c7abeca7b9f5846d59e8288f08e1a8/dblp"
   },
   {
-    "id": 422,
+    "id": 423,
     "title": "OCR and post-correction of historical Finnish texts.",
     "authors": [
       "Senka Drobac",
@@ -7727,7 +7739,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a21cb68ce72ae3ea6543db97db233bd0/dblp"
   },
   {
-    "id": 423,
+    "id": 424,
     "title": "SceneTextReg: A Real-Time Video OCR System.",
     "authors": [
       "Haojin Yang",
@@ -7754,7 +7766,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2eac2310cc453dcdff9c88f4427a89b4b/dblp"
   },
   {
-    "id": 424,
+    "id": 425,
     "title": "OCR Performance Prediction Using a Bag of Allographs and Support Vector Regression.",
     "authors": [
       "Tapan Kumar Bhowmik",
@@ -7777,7 +7789,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/29df5786af0deb2b57f382cb347d5bb76/dblp"
   },
   {
-    "id": 425,
+    "id": 426,
     "title": "OCR Quality and NLP Preprocessing.",
     "authors": [
       "Margot Mieskes",
@@ -7799,7 +7811,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a0274908c476a865570cc970b8b29a9d/dblp"
   },
   {
-    "id": 426,
+    "id": 427,
     "title": "A Framework for Document Specific Error Detection and Corrections in Indic OCR.",
     "authors": [
       "Rohit Saluja",
@@ -7817,7 +7829,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2f7bff31a837ceaaac131fef45ba72919/dblp"
   },
   {
-    "id": 427,
+    "id": 428,
     "title": "Effect of OCR-errors on the transformation of semi-structured text data into relational database.",
     "authors": [
       "Kolyo Z. Onkov"
@@ -7837,7 +7849,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/218614fbbab62ffc4e36102b2ed21afc8/dblp"
   },
   {
-    "id": 428,
+    "id": 429,
     "title": "Open Source Historical OCR: The OCRopodium Project.",
     "authors": [
       "Michael Bryant",
@@ -7861,7 +7873,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/20c2cc581f241f97b841b68858e33dff9/dblp"
   },
   {
-    "id": 429,
+    "id": 430,
     "title": "Recognition of handwritten Roman Numerals using Tesseract open source OCR engine",
     "authors": [
       "Sandip Rakshit",
@@ -7879,7 +7891,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/23876d2dbfef0df2ca017611877c4f151/dblp"
   },
   {
-    "id": 430,
+    "id": 431,
     "title": "User-configurable OCR enhancement for online natural history archives.",
     "authors": [
       "Andy C. Downton",
@@ -7894,7 +7906,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/204e047f027a3c869907acbccabc74193/dblp"
   },
   {
-    "id": 431,
+    "id": 432,
     "title": "Improving OCR for Historical Documents by Modeling Image Distortion.",
     "authors": [
       "Keiya Maekawa",
@@ -7917,7 +7929,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/203c4bb185f8eb81c16e20d41c8ee4115/dblp"
   },
   {
-    "id": 432,
+    "id": 433,
     "title": "Scalable parallel processing design for real time handwritten OCR.",
     "authors": [
       "Aysegul Cuhadar",
@@ -7933,7 +7945,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/239da2ca980232e0268a513056413a7d1/dblp"
   },
   {
-    "id": 433,
+    "id": 434,
     "title": "Comparison of Kernel Estimators, Perceptrons and Radial-Basis Functions for OCR and Speech Classification.",
     "authors": [
       "Ethem Alpaydin",
@@ -7947,7 +7959,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/28517a1a58fcb06fc4ded75050d9ca885/dblp"
   },
   {
-    "id": 434,
+    "id": 435,
     "title": "A Fast Alignment Scheme for Automatic OCR Evaluation of Books.",
     "authors": [
       "Ismet Zeki Yalniz",
@@ -7963,7 +7975,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2629dd0b658cc8edeebb2ed27acc4d94d/dblp"
   },
   {
-    "id": 435,
+    "id": 436,
     "title": "A novel learning method by structural reduction of DAGs for on-line OCR applications.",
     "authors": [
       "I-Jong Lin",
@@ -7979,7 +7991,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2f3566deab0e685cc61d7dfc10024df3e/dblp"
   },
   {
-    "id": 436,
+    "id": 437,
     "title": "Combining OCR Outputs for Logical Document Structure Markup. Technical Background to the ACL 2012 Contributed Task.",
     "authors": [
       "Ulrich Sch\u00e4fer",
@@ -7997,7 +8009,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/25764d7cd5bcb094283c0a43c92390de2/dblp"
   },
   {
-    "id": 437,
+    "id": 438,
     "title": "SemCAPTCHA - user-friendly alternative for OCR-based CAPTCHA systems.",
     "authors": [
       "Pawel Lupkowski",
@@ -8013,7 +8025,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2630ac6a754574b191c5afbc8bcd33640/dblp"
   },
   {
-    "id": 438,
+    "id": 439,
     "title": "Post-processing of OCR Results Using Automatically Constructed Partially Defined Syntax.",
     "authors": [
       "Vassili V. Postnikov",
@@ -8031,7 +8043,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/22fc52f9252fb63ef8ada96e04d916144/dblp"
   },
   {
-    "id": 439,
+    "id": 440,
     "title": "Towards a distributed Arabic OCR based on the DTW algorithm: performance analysis.",
     "authors": [
       "Maher Khemakhem",
@@ -8045,7 +8057,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2bb2995013050453c5b7b3e32a3a335f2/dblp"
   },
   {
-    "id": 440,
+    "id": 441,
     "title": "A Neural Network Classifier for the I100 OCR Chip.",
     "authors": [
       "John C. Platt",
@@ -8065,7 +8077,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/23294f5039fc1374d0540867fde93a6d3/dblp"
   },
   {
-    "id": 441,
+    "id": 442,
     "title": "High Speed and High Accuracy Pre-Classification Method for OCR: Margin Added Hashing.",
     "authors": [
       "Yutaka Katsuyama",
@@ -8081,7 +8093,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/263861c644021789de3a2e9e2c0729b5b/dblp"
   },
   {
-    "id": 442,
+    "id": 443,
     "title": "Ground Truth for training OCR engines on historical documents in German Fraktur and Early Modern Latin",
     "authors": [
       "Uwe Springmann",
@@ -8097,7 +8109,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2669e2b827b9812c155c67320d0bcf775/chreul"
   },
   {
-    "id": 443,
+    "id": 444,
     "title": "Learning Optimization in a MLP Neural Network Applied to OCR.",
     "authors": [
       "Isis Bonet Cruz",
@@ -8120,7 +8132,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/272affbd1626eb87889e0d6e65ac19baf/dblp"
   },
   {
-    "id": 444,
+    "id": 445,
     "title": "Ocropodium: open source OCR for small-scale historical archives.",
     "authors": [
       "Tobias Blanke",
@@ -8135,7 +8147,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/274f5d5cf69905878161845cac99682d4/dblp"
   },
   {
-    "id": 445,
+    "id": 446,
     "title": "Combining Focus Measure Operators to Predict OCR Accuracy in Mobile-Captured Document Images.",
     "authors": [
       "Mar\u00e7al Rusi\u00f1ol",
@@ -8158,7 +8170,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2ed4fab802acfe49644a72260552dcc89/dblp"
   },
   {
-    "id": 446,
+    "id": 447,
     "title": "A Robust Free Size OCR for Omni-Font Persian/Arabic Printed Document Using Combined MLP/SVM.",
     "authors": [
       "Hamed Pirsiavash",
@@ -8178,7 +8190,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/27c0d03c78e921a48a9dda5872a32f20f/dblp"
   },
   {
-    "id": 447,
+    "id": 448,
     "title": "Word retrieval in document images without OCR.",
     "authors": [
       "Simone Marinai",
@@ -8199,7 +8211,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2f9c442a8daf9d0bbd640af8a514c5d6a/dblp"
   },
   {
-    "id": 448,
+    "id": 449,
     "title": "A Preprocessing Algorithm to Increase OCR Performance on Application Processor-Centric FPGA Architectures.",
     "authors": [
       "C\u00e9sar Crovato",
@@ -8225,7 +8237,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/266bed0d620059cd8a68306f91884d39c/dblp"
   },
   {
-    "id": 449,
+    "id": 450,
     "title": "OCR for Malayalam script using neural networks.",
     "authors": [
       "M. Abdul Rahiman",
@@ -8241,7 +8253,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/22d2ce38a9e468a5dec87687f4be0b981/dblp"
   },
   {
-    "id": 450,
+    "id": 451,
     "title": "The Impact of OCR Accuracy and Feature Transformation on Automatic Text Classification.",
     "authors": [
       "Mayo Murata",
@@ -8263,7 +8275,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2d80ad94f2647babbe9c95bc45cac9656/dblp"
   },
   {
-    "id": 451,
+    "id": 452,
     "title": "Segmentation Based Urdu Nastalique OCR.",
     "authors": [
       "Sobia Tariq Javed",
@@ -8282,7 +8294,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/25df14eeebfc867a2eb52597365a50359/dblp"
   },
   {
-    "id": 452,
+    "id": 453,
     "title": "Verbesserung der OCR in digitalen Sammlungen von Bibliotheken",
     "authors": [
       "Konstantin Baierer",
@@ -8296,7 +8308,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/233fcf8084f6637cf372a9d3b618736a5/lepsky"
   },
   {
-    "id": 453,
+    "id": 454,
     "title": "A Robust Video Text Extraction and Recognition Approach Using OCR Feedback Information.",
     "authors": [
       "Guangyu Gao",
@@ -8319,7 +8331,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2652467449df91d4c2197d4cb4f8602cd/dblp"
   },
   {
-    "id": 454,
+    "id": 455,
     "title": "OCR Perspectives in Mobile Teaching and Learning for Early School Years in Basic Education.",
     "authors": [
       "Thi Thi Zin",
@@ -8336,7 +8348,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/22804172af4828054c4a00dae596e7bb2/dblp"
   },
   {
-    "id": 455,
+    "id": 456,
     "title": "Greedy Search for Active Learning of OCR.",
     "authors": [
       "Arpit Agarwal",
@@ -8353,7 +8365,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2843cdf3919469d18e18ebca09aafe977/dblp"
   },
   {
-    "id": 456,
+    "id": 457,
     "title": "Discrimination of English to other Indian languages (Kannada and Hindi) for OCR system",
     "authors": [
       "Ankit Kumar",
@@ -8368,7 +8380,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2de04973fb0b0e9d7ac006c536f4025e7/dblp"
   },
   {
-    "id": 457,
+    "id": 458,
     "title": "Improving OCR for an under-resourced script using unsupervised word-spotting.",
     "authors": [
       "Adi Silberpfennig",
@@ -8387,7 +8399,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2542f3c19463f48aac086a65b6cd35be5/dblp"
   },
   {
-    "id": 458,
+    "id": 459,
     "title": "Glyph Miner: A System for Efficiently Extracting Glyphs from Early Prints in the Context of OCR.",
     "authors": [
       "Benedikt Budig",
@@ -8411,7 +8423,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/254d49e6bcc9d837e9010148781fc3620/benedikt.budig"
   },
   {
-    "id": 459,
+    "id": 460,
     "title": "Post-OCR Error Detection by Generating Plausible Candidates.",
     "authors": [
       "Thi-Tuyet-Hai Nguyen",
@@ -8430,7 +8442,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2dc1790943c46741c70e703fb23fef1ba/dblp"
   },
   {
-    "id": 460,
+    "id": 461,
     "title": "Effects of OCR Errors on Ranking and Feedback Using the Vector Space Model.",
     "authors": [
       "Kazem Taghva",
@@ -8445,7 +8457,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/29eaf3d1b0cf3a897b47380f622874bf5/dblp"
   },
   {
-    "id": 461,
+    "id": 462,
     "title": "Text Enhancement with Asymmetric Filter for Video OCR.",
     "authors": [
       "Datong Chen",
@@ -8462,7 +8474,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2083d9d628f6dba4f7a1ae9e206cb91e8/dblp"
   },
   {
-    "id": 462,
+    "id": 463,
     "title": "Automatic knowledge extraction from OCR documents using hierarchical document analysis.",
     "authors": [
       "Mohammad Masum",
@@ -8483,7 +8495,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/22b406182535e211332206e9238ac89d7/dblp"
   },
   {
-    "id": 463,
+    "id": 464,
     "title": "Performance Improvements to the BBN Byblos OCR System.",
     "authors": [
       "Michael Decerbo",
@@ -8501,7 +8513,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/24eef94341268660d54dec7e22b75146a/dblp"
   },
   {
-    "id": 464,
+    "id": 465,
     "title": "Improving OCR Accuracy for Classical Critical Editions.",
     "authors": [
       "Federico Boschetti",
@@ -8526,7 +8538,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/28620d2fb2ea1f03f57c36272074efa7c/dblp"
   },
   {
-    "id": 465,
+    "id": 466,
     "title": "Pattern matcher for OCR-corrupted documents and its evaluation.",
     "authors": [
       "Stefan Agne",
@@ -8545,7 +8557,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2d7d2b1568933cbfe745c08e2e1812a6a/dblp"
   },
   {
-    "id": 466,
+    "id": 467,
     "title": "Low Cost Correction of OCR Errors Using Learning in a Multi-Engine Environment.",
     "authors": [
       "Ahmad Abdulkader",
@@ -8561,7 +8573,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2019bcc25c452736ce12cd38ecd2db3ca/dblp"
   },
   {
-    "id": 467,
+    "id": 468,
     "title": "Improving OCR Text Categorization Accuracy with Electronic Abstracts.",
     "authors": [
       "Linlin Li",
@@ -8577,7 +8589,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/22380473432fc4bb2c9703662d3c25f00/dblp"
   },
   {
-    "id": 468,
+    "id": 469,
     "title": "Video OCR for Video Indexing",
     "authors": [
       "Sankirti S.",
@@ -8591,7 +8603,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2df847d97b86281d9d64ced62ed5f475a/dblp"
   },
   {
-    "id": 469,
+    "id": 470,
     "title": "A Novel OCR System Based on Rough Set Semi-reduct.",
     "authors": [
       "Ushasi Chaudhuri",
@@ -8615,7 +8627,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2280118a515d3ab67121ac5e4dc249a1a/dblp"
   },
   {
-    "id": 470,
+    "id": 471,
     "title": "Seeing the character images that an OCR system sees-analysis by genetic algorithm.",
     "authors": [
       "Hitoshi Sakano",
@@ -8632,7 +8644,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2cd02bb1625c670f64c06668459f382a3/dblp"
   },
   {
-    "id": 471,
+    "id": 472,
     "title": "OCR and Automated Translation for the Navigation of non-English Handsets: A Feasibility Study with Arabic.",
     "authors": [
       "Jennifer Biggs",
@@ -8650,7 +8662,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/264d36a57f41ed62e94691ec08305b2af/dblp"
   },
   {
-    "id": 472,
+    "id": 473,
     "title": "On OCR ground truths and OCR post-correction gold standards, tools and formats.",
     "authors": [
       "Martin Reynaert"
@@ -8668,7 +8680,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/235f391bed70b4c99f6d1edb664982c65/dblp"
   },
   {
-    "id": 473,
+    "id": 474,
     "title": "Competition on Smartphone Document Capture and OCR (SmartDoc)",
     "authors": [
       "JC Burie",
@@ -8686,7 +8698,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2f5da2e94b7d5599e708b658b0df77896/mcoustat"
   },
   {
-    "id": 474,
+    "id": 475,
     "title": "An open-source OCR evaluation tool.",
     "authors": [
       "Rafael C. Carrasco"
@@ -8704,7 +8716,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2448d9c6b4393c972703ba4e5721be98a/dblp"
   },
   {
-    "id": 475,
+    "id": 476,
     "title": "Improving Nepali OCR performance by using hybrid recognition approaches.",
     "authors": [
       "Nirajan Pant",
@@ -8725,7 +8737,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2837f5c6aa3021f8f82f4191449ad9caf/dblp"
   },
   {
-    "id": 476,
+    "id": 477,
     "title": "Offline Isolated Handwritten Thai OCR Using Island-Based Projection with N-Gram Models and Hidden Markov Models.",
     "authors": [
       "Thanaruk Theeramunkong",
@@ -8750,7 +8762,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/248a94cdc5735e93c264499f3b1b29c52/dblp"
   },
   {
-    "id": 477,
+    "id": 478,
     "title": "OCR-VQA: Visual Question Answering by Reading Text in Images.",
     "authors": [
       "Anand Mishra",
@@ -8768,7 +8780,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2b5bda63531d54ac1ece3260f58d2f2f9/dblp"
   },
   {
-    "id": 478,
+    "id": 479,
     "title": "OCRMPD: OCR system for Myanmar printed document image with a novel segmentation method and hierarchical classification scheme.",
     "authors": [
       "Htwe Pa Pa Win",
@@ -8785,7 +8797,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/29290150d5bc469ad4a04846117200dfa/dblp"
   },
   {
-    "id": 479,
+    "id": 480,
     "title": "Combined script and page orientation estimation using the Tesseract OCR engine.",
     "authors": [
       "Ranjith Unnikrishnan",
@@ -8806,7 +8818,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2974e3ed0ea82916d916152cf759bd043/dblp"
   },
   {
-    "id": 480,
+    "id": 481,
     "title": "Lexicon Assistance Reduces Manual Verification of OCR Output.",
     "authors": [
       "Susan E. Hauser",
@@ -8824,7 +8836,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2607dbf8bdb6bcfdc5d81117e2e704603/dblp"
   },
   {
-    "id": 481,
+    "id": 482,
     "title": "Nearest neighbor based collection OCR.",
     "authors": [
       "K. Pramod Sankar",
@@ -8846,7 +8858,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/20b721b123534cefc39041676418c4a4c/dblp"
   },
   {
-    "id": 482,
+    "id": 483,
     "title": "A Novel Bilingual OCR System Based on Column-Stochastic Features and SVM Classifier for the Specially Enabled.",
     "authors": [
       "Bindu Philip",
@@ -8862,7 +8874,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2df1ea1d04ef90cd008a961d555878641/dblp"
   },
   {
-    "id": 483,
+    "id": 484,
     "title": "Direction histogram: novel discriminative global feature for Thai offline handwritten OCR.",
     "authors": [
       "Ekawat Chaowicharat",
@@ -8877,7 +8889,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/21350fe04194f20515a65a3db5a86e9cf/dblp"
   },
   {
-    "id": 484,
+    "id": 485,
     "title": "Arabic OCR: toward a complete system.",
     "authors": [
       "Ahmed M. El-Bialy",
@@ -8898,7 +8910,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2f45fbc1a50bd9bdd29f343e2cecf82b3/dblp"
   },
   {
-    "id": 485,
+    "id": 486,
     "title": "Efficient, Lexicon-Free OCR using Deep Learning.",
     "authors": [
       "Marcin Namysl",
@@ -8912,7 +8924,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/263e264721d26dff035f9a92475cff136/dblp"
   },
   {
-    "id": 486,
+    "id": 487,
     "title": "Going Grey? Comparing the OCR Accuracy Levels of Bitonal and Greyscale Images.",
     "authors": [
       "Tracy Powell",
@@ -8926,7 +8938,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/26875a6514aa9137969e7d6905f782e11/dblp"
   },
   {
-    "id": 487,
+    "id": 488,
     "title": "Scale and rotation invariant OCR for Pashto cursive script using MDLSTM network.",
     "authors": [
       "Riaz Ahmad",
@@ -8945,7 +8957,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/22954b08122c237e91f75320342830c08/dblp"
   },
   {
-    "id": 488,
+    "id": 489,
     "title": "New statistical method for multifont printed Tibetan/English OCR.",
     "authors": [
       "Hua Wang",
@@ -8965,7 +8977,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/23d393b9a29aa31af86a922852c306e11/dblp"
   },
   {
-    "id": 489,
+    "id": 490,
     "title": "The impact of OCR accuracy on automated cancer classification of pathology reports.",
     "authors": [
       "Guido Zuccon",
@@ -8987,7 +8999,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2359c58e9de8ab5bd0ec48c4ebaee202b/dblp"
   },
   {
-    "id": 490,
+    "id": 491,
     "title": "OCR Post Correction for Endangered Language Texts.",
     "authors": [
       "Shruti Rijhwani",
@@ -9002,7 +9014,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/26d9fd6372d9af5f9cd36e0c2f4de306e/dblp"
   },
   {
-    "id": 491,
+    "id": 492,
     "title": "Improving OCR performance with background image elimination.",
     "authors": [
       "Mande Shen",
@@ -9018,7 +9030,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/23aa66057eabeeda0b350aae31deb70b0/dblp"
   },
   {
-    "id": 492,
+    "id": 493,
     "title": "Ligature-based font size independent OCR for Noori Nastalique writing style.",
     "authors": [
       "Qurat ul Ain Akram",
@@ -9034,7 +9046,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/263af547873b60a2d4b030063fbee7536/dblp"
   },
   {
-    "id": 493,
+    "id": 494,
     "title": "Postprocessing algorithm based on the probabilistic and semantic method for Japanese OCR.",
     "authors": [
       "Akiko Konno",
@@ -9050,7 +9062,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/24d6d610b7f76a2dfaf4a3b5f45fec598/dblp"
   },
   {
-    "id": 494,
+    "id": 495,
     "title": "Adaptive edit-distance and regression approach for post-OCR text correction",
     "authors": [
       "TTH Nguyen",
@@ -9066,7 +9078,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/21ebfe44f01049ffd013bf95ee6eba4d6/mcoustat"
   },
   {
-    "id": 495,
+    "id": 496,
     "title": "Design and Evaluation of an Adaptive Combination Framework for OCR Result Strings.",
     "authors": [
       "Elke Wilczok",
@@ -9085,7 +9097,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2012ef738e9b5131a06eb1fa0815cb1c6/dblp"
   },
   {
-    "id": 496,
+    "id": 497,
     "title": "Generation of training database using a noise model for OCR systems.",
     "authors": [
       "Do Yen",
@@ -9113,7 +9125,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2be33da52fa1616600904ff2b85d4f2dc/dblp"
   },
   {
-    "id": 497,
+    "id": 498,
     "title": "Methods of Natural Image Preprocessing Supporting the Automatic Text Recognition Using the OCR Algorithms.",
     "authors": [
       "Piotr Lech",
@@ -9131,7 +9143,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2cbfa26c1a81609ea3e512a89c29f1341/dblp"
   },
   {
-    "id": 498,
+    "id": 499,
     "title": "How Good Can It Get? Analysing and Improving OCR Accuracy in Large Scale Historic Newspaper Digitisation Programs",
     "authors": [
       "Rose Holley"
@@ -9143,7 +9155,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2c6f60a6a538b8aa9103a04dbd2cdadaa/jdmuriel"
   },
   {
-    "id": 499,
+    "id": 500,
     "title": "An impact of linguistic features on automated classification of OCR texts.",
     "authors": [
       "Gudila Paul Moshi",
@@ -9167,7 +9179,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2c7b1c0db52bf463c63fda6badfdb6e86/dblp"
   },
   {
-    "id": 500,
+    "id": 501,
     "title": "Early modern OCR project (eMOP) at Texas A&M University: using Aletheia to train Tesseract.",
     "authors": [
       "Katayoun Torabi",
@@ -9187,7 +9199,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2b19d679de88a653c605e20ec6b75b470/dblp"
   },
   {
-    "id": 501,
+    "id": 502,
     "title": "Toward the optimized crowdsourcing strategy for OCR post-correction.",
     "authors": [
       "Omri Suissa",
@@ -9202,7 +9214,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2529df39a909cd5aff62f7f1f72be7021/dblp"
   },
   {
-    "id": 502,
+    "id": 503,
     "title": "OCR correction based on document level knowledge.",
     "authors": [
       "Thomas A. Nartker",
@@ -9226,7 +9238,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/26c52f8b8a33057b96107d26eaaa56064/dblp"
   },
   {
-    "id": 503,
+    "id": 504,
     "title": "A neural network classifier for OCR using structural descriptions.",
     "authors": [
       "Luigi P. Cordella",
@@ -9241,7 +9253,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2e1843656cc14048e02e5a55daa826c4f/dblp"
   },
   {
-    "id": 504,
+    "id": 505,
     "title": "Automatic Selection of Binarization Method for Robust OCR.",
     "authors": [
       "Tanushyam Chattopadhyay",
@@ -9258,7 +9270,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a32cc15cbe7bb15dd8f9f26b545fc1f7/dblp"
   },
   {
-    "id": 505,
+    "id": 506,
     "title": "How to carry over historic books into social networks",
     "authors": [
       "Heimo M\u00fcller",
@@ -9274,7 +9286,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2cdef13a072972c54c5fec6ca006adca8/sac"
   },
   {
-    "id": 506,
+    "id": 507,
     "title": "A Tesseract-based OCR framework for historical documents lacking ground-truth text.",
     "authors": [
       "Brennan Nunamaker",
@@ -9292,7 +9304,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/22688b454bdfe080bf4fccc848efe89e4/dblp"
   },
   {
-    "id": 507,
+    "id": 508,
     "title": "OCR from Video Stream of Book Flipping.",
     "authors": [
       "Dibyayan Chakraborty",
@@ -9310,7 +9322,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2cb307471840759ef4c226bec0cac9219/dblp"
   },
   {
-    "id": 508,
+    "id": 509,
     "title": "Correction of OCR Word Segmentation Errors in Articles from the ACL Collection through Neural Machine Translation Methods.",
     "authors": [
       "Vivi Nastase",
@@ -9340,7 +9352,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/218cddb257e11b3008abb466915b2afd2/dblp"
   },
   {
-    "id": 509,
+    "id": 510,
     "title": "Pattern matching techniques for correcting low-confidence OCR words in a known context.",
     "authors": [
       "Glenn Ford",
@@ -9362,7 +9374,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/22532a5a7ca9264b66b7371818587f0b1/dblp"
   },
   {
-    "id": 510,
+    "id": 511,
     "title": "Using QR Code Labels to Enhance OCR for Capturing Legacy Machines' Data.",
     "authors": [
       "Suk-Ling Lai",
@@ -9379,7 +9391,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/298ec6a170f4772576b6dc3e3fbf92335/dblp"
   },
   {
-    "id": 511,
+    "id": 512,
     "title": "Boosting OCR Classifier by Optimal Edge Noise Filtering.",
     "authors": [
       "Junior Barrera",
@@ -9401,7 +9413,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/282fa1e594df671daaa65ac8b370f3b4c/dblp"
   },
   {
-    "id": 512,
+    "id": 513,
     "title": "NLP Applications of Sinhala: TTS & OCR.",
     "authors": [
       "Ruvan Weerasinghe",
@@ -9418,7 +9430,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/232e95eadc7a2b133480920a42f7a1769/dblp"
   },
   {
-    "id": 513,
+    "id": 514,
     "title": "Automated OCR Ground Truth Generation.",
     "authors": [
       "Joost van Beusekom",
@@ -9438,7 +9450,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2ed8e99f46683801b77f94599b41aa604/dblp"
   },
   {
-    "id": 514,
+    "id": 515,
     "title": "Context-Based Spelling Correction for Japanese OCR.",
     "authors": [
       "Masaaki Nagata"
@@ -9451,7 +9463,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/24e982e0a47884a78d730624a75268bd0/dblp"
   },
   {
-    "id": 515,
+    "id": 516,
     "title": "Boost OCR accuracy using iVector based system combination approach.",
     "authors": [
       "Xujun Peng",
@@ -9471,7 +9483,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2473a63a9ce10980cf875d02c5e30fecf/dblp"
   },
   {
-    "id": 516,
+    "id": 517,
     "title": "A Standalone OCR System for Mobile Cameraphones.",
     "authors": [
       "Mikael Laine",
@@ -9486,7 +9498,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2e3b60ce3d8fb7fd7447b811b44fc9c3f/dblp"
   },
   {
-    "id": 517,
+    "id": 518,
     "title": "Robust Camera Captured Image Mosaicking for Document Digitization and OCR Processing.",
     "authors": [
       "Lokender Tiwari",
@@ -9503,7 +9515,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/26b3748f8c21ad6925d76dac29bf328eb/dblp"
   },
   {
-    "id": 518,
+    "id": 519,
     "title": "An Arabic OCR Using Neural Network Classifiers.",
     "authors": [
       "Hazem M. Raafat",
@@ -9524,7 +9536,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2b2e4d82657cc1ef77ee0c72247e80ce2/dblp"
   },
   {
-    "id": 519,
+    "id": 520,
     "title": "Telugu OCR Framework using Deep Learning.",
     "authors": [
       "Rakesh Achanta",
@@ -9538,7 +9550,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/23a3726742f34224144cb875598e9665d/dblp"
   },
   {
-    "id": 520,
+    "id": 521,
     "title": "Using SMT for OCR Error Correction of Historical Texts.",
     "authors": [
       "Haithem Afli",
@@ -9567,7 +9579,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2cb6434f2bac9d75576ae1db6f6764fef/dblp"
   },
   {
-    "id": 521,
+    "id": 522,
     "title": "Automatic recognition of common Arabic handwritten words based on OCR and N-GRAMS.",
     "authors": [
       "Laslo Dinges",
@@ -9585,7 +9597,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a8fb0ded43a0fedc0cd99b4a87d60ab8/dblp"
   },
   {
-    "id": 522,
+    "id": 523,
     "title": "Suitability of Optical Character Recognition (OCR) for Multi-domain Model Management.",
     "authors": [
       "Weslley Torres",
@@ -9606,7 +9618,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/289ef4f2f576e5e5200402420409ecbcc/dblp"
   },
   {
-    "id": 523,
+    "id": 524,
     "title": "Improving OCR Accuracy on Early Printed Books using Deep Convolutional Networks.",
     "authors": [
       "Christoph Wick",
@@ -9621,7 +9633,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2fd91cda0d225200c11caa8f1a7835548/dblp"
   },
   {
-    "id": 524,
+    "id": 525,
     "title": "Neural Networks Pipeline for Offline Machine Printed Arabic OCR.",
     "authors": [
       "Mohamed A. Radwan",
@@ -9636,7 +9648,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2bf78c1e80777456ee541649bbc34c847/dblp"
   },
   {
-    "id": 525,
+    "id": 526,
     "title": "Assessing the Impact of OCR Errors in Information Retrieval.",
     "authors": [
       "Guilherme Torresan Bazzo",
@@ -9662,7 +9674,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2b1dbda36f2e39cea098d4e9c4bce040c/dblp"
   },
   {
-    "id": 526,
+    "id": 527,
     "title": "Gathering, Classifying and Visualizing Results from Social Surveys using OCR and Machine Learning Techniques.",
     "authors": [
       "David C\u00e9spedes-Hern\u00e1ndez",
@@ -9678,7 +9690,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a354b97af9af5edfc3218370625fc8b8/dblp"
   },
   {
-    "id": 527,
+    "id": 528,
     "title": "The BBN Byblos Japanese OCR System.",
     "authors": [
       "Ehry MacRostie",
@@ -9696,7 +9708,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2ca3331ba48b082b417d2420f97a82e5d/dblp"
   },
   {
-    "id": 528,
+    "id": 529,
     "title": "Web Knowledge Base Improved OCR Correction for Chinese Business Cards.",
     "authors": [
       "Xiaoping Wang",
@@ -9716,7 +9728,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/265e79dfdb73e22e483705b92203dd60e/dblp"
   },
   {
-    "id": 529,
+    "id": 530,
     "title": "Document Layout Analysis and Classification and Its Application in OCR.",
     "authors": [
       "Gaurav Gupta",
@@ -9734,7 +9746,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a3593be5124a7a20a77def73fce48ae7/dblp"
   },
   {
-    "id": 530,
+    "id": 531,
     "title": "Tree-Structured Named Entity Recognition on OCR Data: Analysis, Processing and Results.",
     "authors": [
       "Marco Dinarelli",
@@ -9759,7 +9771,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/293e55bee2359cbb8400a45f43c0c102c/dblp"
   },
   {
-    "id": 531,
+    "id": 532,
     "title": "Optimization of Road Sign Detection Based on Colour information for OCR.",
     "authors": [
       "Eric Gambardella",
@@ -9775,7 +9787,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/29d61754d0d8beda7d148bd62db1f0761/dblp"
   },
   {
-    "id": 532,
+    "id": 533,
     "title": "OCRSpell: an interactive spelling correction system for OCR errors in text",
     "authors": [
       "Kazem Taghva",
@@ -9789,7 +9801,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2c92b234c6f89dfd0e8e6f0d66b58fc5b/mgns"
   },
   {
-    "id": 533,
+    "id": 534,
     "title": "Text Degradations and OCR Training.",
     "authors": [
       "Elisa H. Barney Smith",
@@ -9805,7 +9817,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/26b17abf1f88a4f98f2e6a368059c3439/dblp"
   },
   {
-    "id": 534,
+    "id": 535,
     "title": "Evaluating OCR and Non-OCR Text Representations for Learning Document Classifiers.",
     "authors": [
       "Markus Junker",
@@ -9821,7 +9833,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2b4fa68e417faed2b63782a0439b227b9/dblp"
   },
   {
-    "id": 535,
+    "id": 536,
     "title": "Introduction to the special issue on Optical Character Recognition (OCR).",
     "authors": [
       "Mary Elizabeth Stevens"
@@ -9833,7 +9845,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/20e92d99f2adf802af1081d38a7557c34/dblp"
   },
   {
-    "id": 536,
+    "id": 537,
     "title": "Measuring Search Retrieval Accuracy of Uncorrected OCR: Findings from the Harvard-Radcliffe Online Historical Reference Shelf Digitization Project",
     "authors": [
       "Stephen Chapman"
@@ -9846,7 +9858,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2e3ace751a02952aa6882b98f531139bf/cirrus"
   },
   {
-    "id": 537,
+    "id": 538,
     "title": "An Optimal Approach Towards Recognizing Broken Thai Characters in OCR Systems.",
     "authors": [
       "Chaivatna Sumetphong",
@@ -9862,7 +9874,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/27d40d0f5096735d0f8c6988fe5d66322/dblp"
   },
   {
-    "id": 538,
+    "id": 539,
     "title": "Analysis of Unsupervised Training Approaches for LSTM-Based OCR.",
     "authors": [
       "Martin Jenckel",
@@ -9879,7 +9891,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2458c7acb357b8f6be0d1349014414311/dblp"
   },
   {
-    "id": 539,
+    "id": 540,
     "title": "Character Duration Modeling for Speed Improvements in the BBN Byblos OCR System.",
     "authors": [
       "Premkumar Natarajan",
@@ -9897,7 +9909,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2ba232e81f5a501dc7501c7ae2a7326b8/dblp"
   },
   {
-    "id": 540,
+    "id": 541,
     "title": "Multilingual OCR research and applications: an overview.",
     "authors": [
       "Xujun Peng",
@@ -9923,7 +9935,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/206294d195e19ecf89dd1c1fd85ebd344/dblp"
   },
   {
-    "id": 541,
+    "id": 542,
     "title": "An Open Vocabulary OCR System with Hybrid Word-Subword Language Models.",
     "authors": [
       "Meng Cai",
@@ -9944,7 +9956,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/229786e11fc764e6e920bfee4cfc0f9db/dblp"
   },
   {
-    "id": 542,
+    "id": 543,
     "title": "Fast document image comparison in multilingual corpus without OCR.",
     "authors": [
       "Yuping Lin",
@@ -9960,7 +9972,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2bd0bc963c6c6088e2504b0a362e024bf/dblp"
   },
   {
-    "id": 543,
+    "id": 544,
     "title": "Fast and accurate scene text understanding with image binarization and off-the-shelf OCR.",
     "authors": [
       "Sergey Milyaev",
@@ -9977,7 +9989,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/21ec44bf7d56471ac6e72d78155e07a7c/dblp"
   },
   {
-    "id": 544,
+    "id": 545,
     "title": "okralact - a multi-engine Open Source OCR training system.",
     "authors": [
       "Konstantin Baierer",
@@ -9994,7 +10006,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/27a4bbc56768262a3a9b560356a56a9f8/dblp"
   },
   {
-    "id": 545,
+    "id": 546,
     "title": "Prediction of OCR accuracy using simple image features.",
     "authors": [
       "L. R. Blando",
@@ -10011,7 +10023,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2752ab5533965887404bca6eb9832d7a5/dblp"
   },
   {
-    "id": 546,
+    "id": 547,
     "title": "Texterkennung anhand von Buchstabenmerkmalen und lexikographischem\n\tWortvergleich im Rahmen einer Omnifont-OCR-Software",
     "authors": [
       "Frank W\u00fcrker"
@@ -10023,7 +10035,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/233163ec6886cd73d5df421064d2a5e52/cocus"
   },
   {
-    "id": 547,
+    "id": 548,
     "title": "Document image improvment for OCR as a classification problem.",
     "authors": [
       "Kristen Maria Summers"
@@ -10043,7 +10055,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a805710adf35d645fc6052427580eb99/dblp"
   },
   {
-    "id": 548,
+    "id": 549,
     "title": "Improving OCR Accuracy on Early Printed Books by Utilizing Cross Fold Training and Voting",
     "authors": [
       "Christian Reul",
@@ -10059,7 +10071,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/272913f19e477c41303efe93ce1a5e58f/chreul"
   },
   {
-    "id": 549,
+    "id": 550,
     "title": "Rejection Threshold Estimation for an Unknown Language Model in an OCR Task.",
     "authors": [
       "Joaquim Arlandis",
@@ -10083,7 +10095,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2fca1466ca363a6bc094cd0b71289702e/dblp"
   },
   {
-    "id": 550,
+    "id": 551,
     "title": "Improving OCR Accuracy on Early Printed Books by utilizing Cross Fold\r\n  Training and Voting",
     "authors": [
       "Christian Reul",
@@ -10099,7 +10111,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a693c55d96790a6c464dcdda6fb2a373/chwick"
   },
   {
-    "id": 551,
+    "id": 552,
     "title": "Evaluation Framework for Video OCR.",
     "authors": [
       "Padmanabhan Soundararajan",
@@ -10126,7 +10138,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/20293ea9b253c47ef1896a8dde569a3af/dblp"
   },
   {
-    "id": 552,
+    "id": 553,
     "title": "A comprehensive handwritten image corpus of isolated persian/arabic characters for OCR development and evaluation.",
     "authors": [
       "Sara Khosravi",
@@ -10144,7 +10156,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2d6192078a8b631cc3316e0217d42295f/dblp"
   },
   {
-    "id": 553,
+    "id": 554,
     "title": "Correcting noisy OCR: context beats confusion.",
     "authors": [
       "John Evershed",
@@ -10163,7 +10175,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/218f48f1ee282d46ee301f3dd89a40400/dblp"
   },
   {
-    "id": 554,
+    "id": 555,
     "title": "OCR with Word Prediction Technique for Bilingual Documents.",
     "authors": [
       "Supachai Tangwongsan",
@@ -10184,7 +10196,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/20bd2e8de5c5a6330cc58d3d3349855c2/dblp"
   },
   {
-    "id": 555,
+    "id": 556,
     "title": "A Multi-faceted OCR Framework for Artificial Urdu News Ticker Text Recognition.",
     "authors": [
       "Sami Ur Rehman",
@@ -10203,7 +10215,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/273d8717b7db97bde8f8182d80e6ec788/dblp"
   },
   {
-    "id": 556,
+    "id": 557,
     "title": "Release on Waste Watchers: paperwork and storage and microfilm",
     "authors": [
       " ?"
@@ -10216,7 +10228,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/22794c4f2b47fdbe6e09b7669fdc90237/cirrus"
   },
   {
-    "id": 557,
+    "id": 558,
     "title": "DISCRIMINATION OF ENGLISH TO OTHER INDIAN LANGUAGES (KANNADA AND HINDI) FOR OCR SYSTEM",
     "authors": [
       "Tushar Patnaik2 Ankit Kumar1",
@@ -10230,7 +10242,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2f893d96c0eabf6fe8f030fdeed869c34/ijcsea"
   },
   {
-    "id": 558,
+    "id": 559,
     "title": "DRR research beyond commercial off-the-shelf OCR software: a survey.",
     "authors": [
       "Xiaofan Lin"
@@ -10248,7 +10260,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2765044fe19e1b9deeab396e729d7aaf9/dblp"
   },
   {
-    "id": 559,
+    "id": 560,
     "title": "Towards applying OCR and Semantic Web to achieve optimal learning experience.",
     "authors": [
       "Kiran Badwaik",
@@ -10265,7 +10277,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2034a24a555588a73a4ce6b7d184322c2/dblp"
   },
   {
-    "id": 560,
+    "id": 561,
     "title": "Named Entity Extraction from Noisy Input: Speech and OCR.",
     "authors": [
       "David R. H. Miller",
@@ -10283,7 +10295,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2bb9387a31baeb12c6b10e581bc9dead6/dblp"
   },
   {
-    "id": 561,
+    "id": 562,
     "title": "A Persian OCR System Using Morphological Operators.",
     "authors": [
       "Mehdi Salmani Jelodar",
@@ -10302,7 +10314,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2571f983980de9a82913fea83a79bfeb4/dblp"
   },
   {
-    "id": 562,
+    "id": 563,
     "title": "Ancient documents bleed-through evaluation and its application for predicting OCR error rates.",
     "authors": [
       "Vincent Rabeux",
@@ -10322,7 +10334,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/25b1a6650179ce7546a4b8b64bf4fcb08/dblp"
   },
   {
-    "id": 563,
+    "id": 564,
     "title": "User-Defined Expected Error Rate in OCR Postprocessing by Means of Automatic Threshold Estimation.",
     "authors": [
       "J. Ramon Navarro-Cerdan",
@@ -10340,7 +10352,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/24ffc3a4ecf1c12d78217a5d42ca8d1f1/dblp"
   },
   {
-    "id": 564,
+    "id": 565,
     "title": "Batch-adaptive rejection threshold estimation with application to OCR post-processing.",
     "authors": [
       "J. Ramon Navarro-Cerdan",
@@ -10356,7 +10368,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/25cd973909b669a10c875002731fe1e2a/dblp"
   },
   {
-    "id": 565,
+    "id": 566,
     "title": "Two-Stage Rejection Algorithm to Reduce Search Space for Character Recognition in OCR.",
     "authors": [
       "Srivardhini Mandipati",
@@ -10378,7 +10390,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2c3932cc788e329f70788f16f36223937/dblp"
   },
   {
-    "id": 566,
+    "id": 567,
     "title": "A segmentation-free approach to OCR.",
     "authors": [
       "Chien-Huei Chen",
@@ -10394,7 +10406,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/272751ed2bad947db6b7a237eab18e2ad/dblp"
   },
   {
-    "id": 567,
+    "id": 568,
     "title": "User Service Improvements Using OCR-Technology.",
     "authors": [
       "Morten Hein"
@@ -10411,7 +10423,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/29b875ec26ef7a0522ae5a94c2deaded8/dblp"
   },
   {
-    "id": 568,
+    "id": 569,
     "title": "Overview of the 2017 ALTA Shared Task: Correcting OCR Errors.",
     "authors": [
       "Diego Moll\u00e1 Aliod",
@@ -10428,7 +10440,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2e2eb2c922a374a49d78fc355aaede72c/dblp"
   },
   {
-    "id": 569,
+    "id": 570,
     "title": "Comprehensive Performance Evaluation of Various Feature Extraction Methods for OCR Purposes.",
     "authors": [
       "Dawid Sas",
@@ -10447,7 +10459,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/252653bbb609215d32adeb1e50317d9d2/dblp"
   },
   {
-    "id": 570,
+    "id": 571,
     "title": "Implicit Language Model in LSTM for OCR.",
     "authors": [
       "Ekraam Sabir",
@@ -10462,7 +10474,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2704ee44510530ea153343dea3bedb3ce/dblp"
   },
   {
-    "id": 571,
+    "id": 572,
     "title": "Duplicate bibliographic record detection with an OCR-converted source of information.",
     "authors": [
       "Shoichi Taniguchi"
@@ -10475,7 +10487,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2748836a4fe0a564a47b042201377afe5/dblp"
   },
   {
-    "id": 572,
+    "id": 573,
     "title": "OCR of historical printings with an application to building diachronic corpora: A case study using the RIDGES herbal corpus.",
     "authors": [
       "Uwe Springmann",
@@ -10489,7 +10501,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2ea4dc33b2e7ce7ae45d08359839cba95/dblp"
   },
   {
-    "id": 573,
+    "id": 574,
     "title": "OCR Alternatives for Electronic Publishing of Digitised Documents.",
     "authors": [
       "Stefan Pletschacher"
@@ -10506,7 +10518,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/295155a09c9b7531b154091c85149ace3/dblp"
   },
   {
-    "id": 574,
+    "id": 575,
     "title": "The effect of OCR errors on stylistic text classification.",
     "authors": [
       "Sterling Stuart Stein",
@@ -10528,7 +10540,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/24964029c1338913dfa4ee8171c78a498/dblp"
   },
   {
-    "id": 575,
+    "id": 576,
     "title": "Low-resource OCR error detection and correction in French Clinical Texts.",
     "authors": [
       "Eva D'hondt",
@@ -10550,7 +10562,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a4b59ad9f9dd51bfd068cfe9c0623bd4/dblp"
   },
   {
-    "id": 576,
+    "id": 577,
     "title": "Camera-based Kanji OCR for Mobile-phones: Practical Issues.",
     "authors": [
       "Masashi Koga",
@@ -10570,7 +10582,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/260caff7af6c9d722c7783d8c68235a8f/dblp"
   },
   {
-    "id": 577,
+    "id": 578,
     "title": "Edit Distance with Combinations and Splits and its Applications in OCR Name Matching.",
     "authors": [
       "Manolis Christodoulakis",
@@ -10584,7 +10596,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2851849a9b75bfc9410fdd92e9191c4e6/dblp"
   },
   {
-    "id": 578,
+    "id": 579,
     "title": "Efficient automatic OCR word validation using word partial format derivation and language model.",
     "authors": [
       "Siyuan Chen",
@@ -10604,7 +10616,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2252ce9004574a768962003156d5e55bc/dblp"
   },
   {
-    "id": 579,
+    "id": 580,
     "title": "Case Study of a highly automated Layout Analysis and\r\nOCR of an incunabulum: \u2018Der Heiligen Leben\u2019 (1488)",
     "authors": [
       "Christian Reul",
@@ -10620,7 +10632,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/28c3a71ae1715b6137d5654c143726d7f/chreul"
   },
   {
-    "id": 580,
+    "id": 581,
     "title": "Evaluating supervised topic models in the presence of OCR errors.",
     "authors": [
       "Daniel David Walker",
@@ -10640,7 +10652,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2fbf8a02926485819bc9ed46e396a0dcb/dblp"
   },
   {
-    "id": 581,
+    "id": 582,
     "title": "A New Editing Scheme Based on a Fast Two-String Median Computation Applied to OCR.",
     "authors": [
       "Jos\u00e9 Ignacio Abreu Salas",
@@ -10662,7 +10674,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/220419de256992cb0672c6932595509c9/dblp"
   },
   {
-    "id": 582,
+    "id": 583,
     "title": "An improved fast edit approach for two-string approximated mean computation applied to OCR.",
     "authors": [
       "Jos\u00e9 Ignacio Abreu",
@@ -10676,7 +10688,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a7dd5d14d1b18e4b65165986fa536d58/dblp"
   },
   {
-    "id": 583,
+    "id": 584,
     "title": "Improving OCR-Degraded Arabic Text Retrieval Through an Enhanced Orthographic Query Expansion Model.",
     "authors": [
       "Tarek Elghazaly"
@@ -10698,7 +10710,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/208079de13e1649df9553509321cd3247/dblp"
   },
   {
-    "id": 584,
+    "id": 585,
     "title": "Triage of OCR results using confidence scores.",
     "authors": [
       "Prateek Sarkar",
@@ -10719,7 +10731,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2c111c9840098e181c417cc386bc1ef12/dblp"
   },
   {
-    "id": 585,
+    "id": 586,
     "title": "Applying Tesseract-OCR to detection of image spam mails.",
     "authors": [
       "Daisuke Yamakawa",
@@ -10735,7 +10747,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/24e2487166016190b673b1a10c9c2aafe/dblp"
   },
   {
-    "id": 586,
+    "id": 587,
     "title": "When to Use OCR Post-correction for Named Entity Recognition?",
     "authors": [
       "Vinh-Nam Huynh",
@@ -10756,7 +10768,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/207d1da1698c7c98092422d578daa1b1e/dblp"
   },
   {
-    "id": 587,
+    "id": 588,
     "title": "Detecting Digital Newspaper Duplicates with Focus on eliminating OCR errors.",
     "authors": [
       "Yeshey Peden",
@@ -10777,7 +10789,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/238c821b1997a596b2786642c02fb4dbf/dblp"
   },
   {
-    "id": 588,
+    "id": 589,
     "title": "ShotVis: Smartphone-Based Visualization of OCR Information from Images.",
     "authors": [
       "Biao Zhu",
@@ -10794,7 +10806,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2f32f94cce6b557bf0c780c1b9bcead5e/dblp"
   },
   {
-    "id": 589,
+    "id": 590,
     "title": "Improving OCR of historical newspapers and journals published in Finland.",
     "authors": [
       "Senka Drobac",
@@ -10811,7 +10823,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2b0f1246ee250bcc7ca1d2f174bf0dcd6/dblp"
   },
   {
-    "id": 590,
+    "id": 591,
     "title": "Improving Bangla OCR output through correction algorithms.",
     "authors": [
       "Md Sajib Ahmed",
@@ -10828,7 +10840,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/29116b5a505f3cc4e7b17723d74828c70/dblp"
   },
   {
-    "id": 591,
+    "id": 592,
     "title": "Analysis and Representation of Character Images for Extracting Shape based Features Towards Building an OCR for Bangla Script.",
     "authors": [
       "M. A. Naser",
@@ -10847,7 +10859,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a4d3f05de8da18800c9a005a0605c1a2/dblp"
   },
   {
-    "id": 592,
+    "id": 593,
     "title": "Automatic Prototype Extracion for Adaptive OCR.",
     "authors": [
       "George Nagy",
@@ -10863,7 +10875,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2afe3af6f5daca95d13ec4a510a4e88b2/dblp"
   },
   {
-    "id": 593,
+    "id": 594,
     "title": "Deep Statistical Analysis of OCR Errors for Effective Post-OCR Processing.",
     "authors": [
       "Thi-Tuyet-Hai Nguyen",
@@ -10887,7 +10899,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a3b43f548ad55598aa8917fae96bc0cd/dblp"
   },
   {
-    "id": 594,
+    "id": 595,
     "title": "Omnifont and Unlimited-Vocabulary OCR for English and Arabic.",
     "authors": [
       "Issam Bazzi",
@@ -10906,7 +10918,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/218f9c12b98f40cdda4eb9eed9b24e65b/dblp"
   },
   {
-    "id": 595,
+    "id": 596,
     "title": "Impact of Ligature Coverage on Training Practical Urdu OCR Systems.",
     "authors": [
       "Muhammad Ferjad Naeem",
@@ -10925,7 +10937,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2e1ff7562e59abeab97b429e692d6ab15/dblp"
   },
   {
-    "id": 596,
+    "id": 597,
     "title": "Gated Recurrent Convolution Neural Network for OCR.",
     "authors": [
       "Jianfeng Wang",
@@ -10947,7 +10959,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/29bd6cdebab9c65c41dca4b1ba3a7c525/dblp"
   },
   {
-    "id": 597,
+    "id": 598,
     "title": "OCR Based Slide Retrieval.",
     "authors": [
       "N. Daddaoua",
@@ -10964,7 +10976,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/27dafc570c39c07176b94bf2a76c33bf9/dblp"
   },
   {
-    "id": 598,
+    "id": 599,
     "title": "Evaluation of pattern classifiers for fingerprint and OCR applications.",
     "authors": [
       "James L. Blue",
@@ -10981,7 +10993,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/298c568b00450478e90222ea918b6da68/dblp"
   },
   {
-    "id": 599,
+    "id": 600,
     "title": "ARABASE: A Relational Database for Arabic OCR Systems.",
     "authors": [
       "Najoua Essoukri Ben Amara",
@@ -10997,7 +11009,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2dfc542e1dc6fd70893f475dbda84a48c/dblp"
   },
   {
-    "id": 600,
+    "id": 601,
     "title": "OCR Correction via Human Computational Game.",
     "authors": [
       "Lin Tingji Jovian",
@@ -11013,7 +11025,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/290521df412fe6059a72222c3eef92164/dblp"
   },
   {
-    "id": 601,
+    "id": 602,
     "title": "An efficient pre-processing of mixed-content document images for OCR systems.",
     "authors": [
       "Pietro Parodi",
@@ -11029,7 +11041,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/20f39cce43b2953a98bdc737d219ba1af/dblp"
   },
   {
-    "id": 602,
+    "id": 603,
     "title": "Attacking Optical Character Recognition (OCR) Systems with Adversarial Watermarks.",
     "authors": [
       "Lu Chen",
@@ -11043,7 +11055,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/25f9981867c9a692852404fc2a8cda19d/dblp"
   },
   {
-    "id": 603,
+    "id": 604,
     "title": "OCR result optimization based on pattern matching.",
     "authors": [
       "Junqing Shang",
@@ -11063,7 +11075,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2df52264886139d653840f69ffcdc239e/dblp"
   },
   {
-    "id": 604,
+    "id": 605,
     "title": "TRUEVIZ: a groundtruth/metadata editing and visualizing toolkit for OCR.",
     "authors": [
       "Tapas Kanungo",
@@ -11085,7 +11097,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2e61c954907fc5c8c5e768d248291d097/dblp"
   },
   {
-    "id": 605,
+    "id": 606,
     "title": "Lipi Gnani - A Versatile OCR for Documents in any Language Printed in Kannada Script.",
     "authors": [
       "Shiva Kumar H. R",
@@ -11099,7 +11111,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/20f8564b37b72191abcc0f18cac66d253/dblp"
   },
   {
-    "id": 606,
+    "id": 607,
     "title": "Normalizing historical orthography for OCR historical documents using LSTM.",
     "authors": [
       "Mayce Ibrahim Ali Al Azawi",
@@ -11121,7 +11133,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2219d6efef56b051789ee093036205abd/dblp"
   },
   {
-    "id": 607,
+    "id": 608,
     "title": "Improving OCR Accuracy on Early Printed Books by combining Pretraining, Voting, and Active Learning",
     "authors": [
       "Christian Reul",
@@ -11137,7 +11149,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2807da1c096848626f8800e9abc352657/chreul"
   },
   {
-    "id": 608,
+    "id": 609,
     "title": "An OCR System for Printed Documents.",
     "authors": [
       "Frank Lebourgeois",
@@ -11152,7 +11164,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/21d0e3e9793f0e496bf6951274fc3cedc/dblp"
   },
   {
-    "id": 609,
+    "id": 610,
     "title": "Hybrid Approach to Adaptive OCR for Historical Books.",
     "authors": [
       "Vladimir Kluzner",
@@ -11170,7 +11182,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/23282608e6398ebfba60b0de3f3bc5020/dblp"
   },
   {
-    "id": 610,
+    "id": 611,
     "title": "Japanese OCR Error Correction Using Stochastic Morphological Analyzer and Probabilistic Word N-gram Model.",
     "authors": [
       "Koichi Takeuchi",
@@ -11184,7 +11196,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/22cc7edb7b4506be53991bc5aca7e9931/dblp"
   },
   {
-    "id": 611,
+    "id": 612,
     "title": "A complete printed Bangla OCR system.",
     "authors": [
       "B. B. Chaudhuri",
@@ -11198,7 +11210,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/25fdc5a055ecaed6bf0ea502d1d93c0e8/dblp"
   },
   {
-    "id": 612,
+    "id": 613,
     "title": "OCRGrid : A Platform for Distributed and Cooperative OCR Systems.",
     "authors": [
       "Hideaki Goto"
@@ -11213,7 +11225,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2f8d3bc7838284af1780341abafcac800/dblp"
   },
   {
-    "id": 613,
+    "id": 614,
     "title": "Proceedings of the 4th International Workshop on Multilingual OCR, MOCR@ICDAR 2013, Washington, D.C., USA, August 24, 2013",
     "authors": [],
     "editors": [
@@ -11233,7 +11245,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/289297080520c2c39984c250a420700e7/dblp"
   },
   {
-    "id": 614,
+    "id": 615,
     "title": "A segmentation-free approach to Arabic and Urdu OCR.",
     "authors": [
       "Nazly Sabbour",
@@ -11252,7 +11264,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/276072ffd1dfc30ab542353cf5425f8c6/dblp"
   },
   {
-    "id": 615,
+    "id": 616,
     "title": "Error correction vs. query garbling for Arabic OCR document retrieval.",
     "authors": [
       "Kareem Darwish",
@@ -11266,7 +11278,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2ac532610bc02f4035bb0da6c18ff63e2/dblp"
   },
   {
-    "id": 616,
+    "id": 617,
     "title": "The OCRopus open source OCR system.",
     "authors": [
       "Thomas M. Breuel"
@@ -11284,7 +11296,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2c3097c869b43da5b1b224d73e4e5c120/dblp"
   },
   {
-    "id": 617,
+    "id": 618,
     "title": "Nastalique segmentation-based approach for Urdu OCR.",
     "authors": [
       "Sarmad Hussain",
@@ -11299,7 +11311,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/250f16810a75151099b6f2e3bb4d5bb34/dblp"
   },
   {
-    "id": 618,
+    "id": 619,
     "title": "A Shape Based Post Processor for Gurmukhi OCR.",
     "authors": [
       "G. S. Lehal",
@@ -11316,7 +11328,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2cba19ff927154a9de04cecc0b34889c4/dblp"
   },
   {
-    "id": 619,
+    "id": 620,
     "title": "OCR performance prediction using cross-OCR alignment.",
     "authors": [
       "Ahmed Ben Salah",
@@ -11334,7 +11346,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/29cd74951db42846fa9cf96ebf5b9983b/dblp"
   },
   {
-    "id": 620,
+    "id": 621,
     "title": "OCR Graph Features for Manipulation Detection in Documents.",
     "authors": [
       "Hailey James",
@@ -11349,7 +11361,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2c35e3c8c006bcd10f160b6c091981518/dblp"
   },
   {
-    "id": 621,
+    "id": 622,
     "title": "An Algorithm for Matching OCR-Generated Text Strings.",
     "authors": [
       "Stephen V. Rice",
@@ -11370,7 +11382,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/299de86eecf631f1351fdf432546becbc/dblp"
   },
   {
-    "id": 622,
+    "id": 623,
     "title": "Microfilm, paper, and OCR: issues in newspaper digitization at the Utah digital newspapers program",
     "authors": [
       "Kenning Arlitsch",
@@ -11384,7 +11396,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/252c315567bf063e746ebfa661d7c2db1/cirrus"
   },
   {
-    "id": 623,
+    "id": 624,
     "title": "Measuring the Effects of OCR Errors on Similarity Linking.",
     "authors": [
       "Andreas Myka",
@@ -11400,7 +11412,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2ec687b35df773dc34f15c82c5a800425/dblp"
   },
   {
-    "id": 624,
+    "id": 625,
     "title": "Auto-ML Deep Learning for Rashi Scripts OCR.",
     "authors": [
       "Shahar Mahpod",
@@ -11414,7 +11426,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2fc7c8a9360e816622330a0cb241f7e6f/dblp"
   },
   {
-    "id": 625,
+    "id": 626,
     "title": "Research on Chinese OCR in Taiwan.",
     "authors": [
       "Fang-Hsuan Cheng",
@@ -11428,7 +11440,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/23b46a1ac1255171a2618c2313fc9704a/dblp"
   },
   {
-    "id": 626,
+    "id": 627,
     "title": "Adapting OCR with Limited Supervision.",
     "authors": [
       "Deepayan Das",
@@ -11448,7 +11460,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/256458fa5a1774684efd562baaeec879a/dblp"
   },
   {
-    "id": 627,
+    "id": 628,
     "title": "Tools for Semi-automatic Preparation of Training Data for OCR.",
     "authors": [
       "Ladislav Lenc",
@@ -11470,7 +11482,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2277fed807be4d5281abc50d1dd890c07/dblp"
   },
   {
-    "id": 628,
+    "id": 629,
     "title": "Hybrid model for Chinese character recognition based on Tesseract-OCR.",
     "authors": [
       "Bo Wang",
@@ -11485,7 +11497,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/26839e263d2e3a2e2df5f6aeaeba183e4/dblp"
   },
   {
-    "id": 629,
+    "id": 630,
     "title": "Identification of Alphanumeric Pattern Using Android",
     "authors": [
       "Anamika Sharma",
@@ -11500,7 +11512,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a4cd429b2816009eb5f3c3e48cf4cb88/ijritcc"
   },
   {
-    "id": 630,
+    "id": 631,
     "title": "Some new heuristics for thinning binary handprinted characters for OCR.",
     "authors": [
       "F. W. M. Stentiford",
@@ -11514,7 +11526,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2698dae6cfea17ce0f5d7a187ab5a4942/dblp"
   },
   {
-    "id": 631,
+    "id": 632,
     "title": "An End-to-End Preprocessor Based on Adversiarial Learning for Mongolian Historical Document OCR.",
     "authors": [
       "Xiangdong Su",
@@ -11537,7 +11549,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2174e744c92d5569377890746ec46fcb5/dblp"
   },
   {
-    "id": 632,
+    "id": 633,
     "title": "Improving state-of-the-art OCR through high-precision document-specific modeling.",
     "authors": [
       "Andrew Kae",
@@ -11555,7 +11567,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/298c1a9a31a4ef929c1f85c07be791f10/dblp"
   },
   {
-    "id": 633,
+    "id": 634,
     "title": "General and Nimble OCR Open System and the Flexible Segmentation Recognition Algorithms.",
     "authors": [
       "Jiangchuan Du",
@@ -11569,7 +11581,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2fc2dc083e3597a89c86bea4b51626e4e/dblp"
   },
   {
-    "id": 634,
+    "id": 635,
     "title": "Scene text access: a comparison of mobile OCR modalities for blind users.",
     "authors": [
       "Leo Neat",
@@ -11593,7 +11605,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/22540818b0e2ccec669198834c2377b85/dblp"
   },
   {
-    "id": 635,
+    "id": 636,
     "title": "Improving the Operability of Personal Health Record System by Dynamic Dictionary Configuration for OCR.",
     "authors": [
       "Atsuo Yoshitaka",
@@ -11614,7 +11626,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2614d4fa3be39917bc6007f2564ad29a6/dblp"
   },
   {
-    "id": 636,
+    "id": 637,
     "title": "Evaluation and refinement of an enhanced OCR process for mass digitisation.",
     "authors": [
       "Dana Dann\u00e9lls",
@@ -11634,7 +11646,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2fda7999b7ecd4496e025763e5191abea/dblp"
   },
   {
-    "id": 637,
+    "id": 638,
     "title": "Greek Polytonic OCR Based on Efficient Character Class Number Reduction.",
     "authors": [
       "Basilios Gatos",
@@ -11651,7 +11663,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2d99e746d1f860820d6c16743c61489c9/dblp"
   },
   {
-    "id": 638,
+    "id": 639,
     "title": "Progressive Alignment and Discriminative Error Correction for Multiple OCR Engines.",
     "authors": [
       "William B. Lund",
@@ -11668,7 +11680,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/21aeb6d026f3c9c20222ba9b29410a172/dblp"
   },
   {
-    "id": 639,
+    "id": 640,
     "title": "Limiter L'Impact Des Erreurs OCR Sur Les Repr\u00e9sentations Distribu\u00e9es De Mots.",
     "authors": [
       "Axel Jean-Caurant",
@@ -11691,7 +11703,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/226b00d5e073937433f3d3f77444de01c/dblp"
   },
   {
-    "id": 640,
+    "id": 641,
     "title": "TOC Structure Extraction from OCR-ed Books.",
     "authors": [
       "Caihua Liu",
@@ -11714,7 +11726,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/24e7079d0107cf836f43f3bc236525c68/dblp"
   },
   {
-    "id": 641,
+    "id": 642,
     "title": "Industrial OCR approaches: architecture, algorithms, and adaptation techniques.",
     "authors": [
       "Istv\u00e1n Marosi"
@@ -11732,7 +11744,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/289f3c99e145c8378abed3ed3c645cebf/dblp"
   },
   {
-    "id": 642,
+    "id": 643,
     "title": "Parallel OCR in P3L: A Case Study.",
     "authors": [
       "Marco Danelutto",
@@ -11755,7 +11767,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/24016f03b59d86dce6a15f3cf9b83efff/dblp"
   },
   {
-    "id": 643,
+    "id": 644,
     "title": "STN-OCR: A single Neural Network for Text Detection and Text Recognition.",
     "authors": [
       "Christian Bartz",
@@ -11770,7 +11782,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/22d0e5f81d7734001112f1776252cbcf4/dblp"
   },
   {
-    "id": 644,
+    "id": 645,
     "title": "A Database of Glyphs for OCR of Mathematical Documents.",
     "authors": [
       "Alan P. Sexton",
@@ -11788,7 +11800,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/254c825ed525b0b68fc1c033c0dd9e9c9/dblp"
   },
   {
-    "id": 645,
+    "id": 646,
     "title": "CNN-based text image super-resolution tailored for OCR.",
     "authors": [
       "Haochen Zhang",
@@ -11805,7 +11817,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/23a1b04e0b5485b4dcba9660abae775dd/dblp"
   },
   {
-    "id": 646,
+    "id": 647,
     "title": "A Malayalam OCR System Using Column-Stochastic Image Matrix Approach.",
     "authors": [
       "Bindu Philip",
@@ -11821,7 +11833,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/27229343dfdef3ea774428829d8667fa1/dblp"
   },
   {
-    "id": 647,
+    "id": 648,
     "title": "NF-SAVO: Neuro-Fuzzy system for Arabic Video OCR",
     "authors": [
       "Mohamed Ben Halima",
@@ -11837,7 +11849,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/289bad47f2c43cdffa10af8f7888992f7/dblp"
   },
   {
-    "id": 648,
+    "id": 649,
     "title": "Time and Date OCR in CCTV Video.",
     "authors": [
       "Gin\u00e9s Garc\u00eda-Mateos",
@@ -11859,7 +11871,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2761264405969476d675d9b9900736b42/dblp"
   },
   {
-    "id": 649,
+    "id": 650,
     "title": "Correlation Methods of OCR Algorithm for Traffic Sign Detection Implementable in Microcontrollers.",
     "authors": [
       "Radim Herc\u00edk",
@@ -11887,7 +11899,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/27163152d3a983ba0253c6b10cc63a3bb/dblp"
   },
   {
-    "id": 650,
+    "id": 651,
     "title": "Improvement of OCR Accuracy by Similar Character Pair Discrimination: an Approach based on Artificial Immune System.",
     "authors": [
       "Utpal Garain",
@@ -11904,7 +11916,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/232d5198c8ba214c80fe505ee987cc62c/dblp"
   },
   {
-    "id": 651,
+    "id": 652,
     "title": "Word-Based Correction for Retrieval of Arabic OCR Degraded Documents.",
     "authors": [
       "Walid Magdy",
@@ -11924,7 +11936,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2dd056990524743ae6f8e4e0bf42b19cd/dblp"
   },
   {
-    "id": 652,
+    "id": 653,
     "title": "Correcting Arabic OCR Errors Using Improved Topic-Based Language Models.",
     "authors": [
       "Safeya Mamish",
@@ -11938,7 +11950,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/29637ef70b97f7aa1e60914e631acda2b/dblp"
   },
   {
-    "id": 653,
+    "id": 654,
     "title": "Word recognition in a segmentation-free approach to OCR.",
     "authors": [
       "Chien-Huei Chen",
@@ -11954,7 +11966,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2ae80bd60d2c3e708b993beedbe33c80e/dblp"
   },
   {
-    "id": 654,
+    "id": 655,
     "title": "A corpus for OCR research on mathematical expressions.",
     "authors": [
       "Utpal Garain",
@@ -11968,7 +11980,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2fa834fd8be29e2d34ad2dc2de1231d9a/dblp"
   },
   {
-    "id": 655,
+    "id": 656,
     "title": "Evaluation von Open-Source OCR-Software auf deutscher Frakturschrift",
     "authors": [
       "Kevin Fuchs"
@@ -11982,7 +11994,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2e80f600bac4d56381653c4d4c32fc0c0/uniwue_info6"
   },
   {
-    "id": 656,
+    "id": 657,
     "title": "An experimental evaluation of OCR text representations for learning document classifiers.",
     "authors": [
       "Markus Junker",
@@ -11996,7 +12008,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/23c4f737cdb4c93359fb9eb40a116c2dc/dblp"
   },
   {
-    "id": 657,
+    "id": 658,
     "title": "Generation method of synthetic training data for mobile OCR system.",
     "authors": [
       "Yulia S. Chernyshova",
@@ -12018,7 +12030,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/24b6d927fd180234cffb69a5c09e2cf89/dblp"
   },
   {
-    "id": 658,
+    "id": 659,
     "title": "Videotext OCR Using Hidden Markov Models.",
     "authors": [
       "Premkumar Natarajan",
@@ -12036,7 +12048,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a539d93c70c7d42518961a7719309ee5/dblp"
   },
   {
-    "id": 659,
+    "id": 660,
     "title": "OCR4all - An Open-Source Tool Providing a (Semi-)Automatic OCR Workflow for Historical Printings",
     "authors": [
       "Christian Reul",
@@ -12058,7 +12070,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/23d7e718494fe348dc3866eea9cb82bc6/chwick"
   },
   {
-    "id": 660,
+    "id": 661,
     "title": "Unsupervised OCR Model Evaluation Using GAN.",
     "authors": [
       "Abhash Sinha",
@@ -12076,7 +12088,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/278d1988914e1cf76ff44221e5bba26b7/dblp"
   },
   {
-    "id": 661,
+    "id": 662,
     "title": "Realization of an embeddable light weight Video OCR.",
     "authors": [
       "Tanushyam Chattopadhyay",
@@ -12100,7 +12112,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/26432360a894659b5d4be153ba0a8d593/dblp"
   },
   {
-    "id": 662,
+    "id": 663,
     "title": "Erreurs OCR et biais d'indexation: impact sur les usages",
     "authors": [
       "G Chiron",
@@ -12118,7 +12130,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/21e8ca4c3f09adc1be5c7922545eb5cde/mcoustat"
   },
   {
-    "id": 663,
+    "id": 664,
     "title": "Statistics and Phonotactical Rules in Finding OCR Errors.",
     "authors": [
       "Stina Nylander"
@@ -12135,7 +12147,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2b606285583ae575e375a153cfdfa6d76/dblp"
   },
   {
-    "id": 664,
+    "id": 665,
     "title": "A Statistical Approach to Automatic OCR Error Correction in Context.",
     "authors": [
       "Xiang Tong",
@@ -12152,7 +12164,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/24b000deeb9f896071d9b777cf5c07969/dblp"
   },
   {
-    "id": 665,
+    "id": 666,
     "title": "Scanning preservation microfilms: Key issues",
     "authors": [
       "H van Dormolen"
@@ -12165,7 +12177,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/20db5aa2a11479c083dab3d33d56b2413/cirrus"
   },
   {
-    "id": 666,
+    "id": 667,
     "title": "Performance evaluation of an HMM based OCR system.",
     "authors": [
       "Julian C. Anigbogu",
@@ -12180,7 +12192,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2890a77905461dcd5518bafc87fe89d74/dblp"
   },
   {
-    "id": 667,
+    "id": 668,
     "title": "Optical Character Recognition (OCR) for Telugu: Database, Algorithm and Application.",
     "authors": [
       "Konkimalla Chandra Prakash",
@@ -12197,7 +12209,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/22cf8d378b64d19fa1176ac1c8ef64119/dblp"
   },
   {
-    "id": 668,
+    "id": 669,
     "title": "Correction of Medical Handwriting OCR Based on Semantic Similarity.",
     "authors": [
       "Bartosz Broda",
@@ -12219,7 +12231,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/284e16796008431ed1b4b5274c855d28e/dblp"
   },
   {
-    "id": 669,
+    "id": 670,
     "title": "Evaluation within the Scope of OCR Workflows.",
     "authors": [
       "Stefan Pletschacher"
@@ -12237,7 +12249,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/21810c9382a0cf00026c7016868b37ed3/dblp"
   },
   {
-    "id": 670,
+    "id": 671,
     "title": "A two-stage multi-network OCR system with a soft pre-classifier and a network selector.",
     "authors": [
       "Nick W. Strathy",
@@ -12253,7 +12265,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2ad460d27251636afbfb50277aee6eef3/dblp"
   },
   {
-    "id": 671,
+    "id": 672,
     "title": "Evaluation of different feature sets in an OCR free method for word spotting in printed documents.",
     "authors": [
       "Israel Rios",
@@ -12277,7 +12289,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2b1fd54b091e4208f6a29bc0115bb4d69/dblp"
   },
   {
-    "id": 672,
+    "id": 673,
     "title": "OCR with Adaptive Dictionary.",
     "authors": [
       "Chenyang Wang",
@@ -12297,7 +12309,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/232771c16cc794d801574d03bea9b8eb2/dblp"
   },
   {
-    "id": 673,
+    "id": 674,
     "title": "Post-processing of OCR results for automatic indexing.",
     "authors": [
       "Lars Wiedenhifer",
@@ -12313,7 +12325,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/23d5943612e3d7abc084d3e54ab974e78/dblp"
   },
   {
-    "id": 674,
+    "id": 675,
     "title": "Book organization checking algorithm using image segmentation and OCR.",
     "authors": [
       "Mohammad Azim Ul Ekram",
@@ -12332,7 +12344,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/26c51bd53ea4413dae1da1e6d407062a8/dblp"
   },
   {
-    "id": 675,
+    "id": 676,
     "title": "A Novel Method to Prevent Phishing by using OCR Technology.",
     "authors": [
       "Yunjia Wang",
@@ -12348,7 +12360,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a531df91b8b78529d685d160e99affbc/dblp"
   },
   {
-    "id": 676,
+    "id": 677,
     "title": "Commercial Exploitation of OCR and Document Analysis Systems Technology: Market and User Requirements: das'96 Working Group Report.",
     "authors": [
       "Stefan Knerr",
@@ -12367,7 +12379,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/21efb6532a38c4bf76ed6bdd9a65404ff/dblp"
   },
   {
-    "id": 677,
+    "id": 678,
     "title": "Handwritten Optical Character Recognition (OCR): A Comprehensive Systematic Literature Review (SLR).",
     "authors": [
       "Jamshed Memon",
@@ -12382,7 +12394,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2c496cca23eb55a543fb54ec5c06cca8c/dblp"
   },
   {
-    "id": 678,
+    "id": 679,
     "title": "Application of high-order Boltzmann machines in OCR.",
     "authors": [
       "A. de la Hera",
@@ -12398,7 +12410,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2f58e7d995a1020544d6f838da869aaa8/dblp"
   },
   {
-    "id": 679,
+    "id": 680,
     "title": "Non-interactive OCR Post-correction for Giga-Scale Digitization Projects.",
     "authors": [
       "Martin Reynaert"
@@ -12415,7 +12427,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2ecbaa8ee112b9f1e54ffada310e99852/dblp"
   },
   {
-    "id": 680,
+    "id": 681,
     "title": "Impact of OCR Quality on Named Entity Linking.",
     "authors": [
       "Elvys Linhares Pontes",
@@ -12437,7 +12449,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/25de914a1b6f45e0e8643668e2c3c2ee6/dblp"
   },
   {
-    "id": 681,
+    "id": 682,
     "title": "anyOCR: A sequence learning based OCR system for unlabeled historical documents.",
     "authors": [
       "Martin Jenckel",
@@ -12454,7 +12466,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/23cc34b37dfd76d534956e7ed400a4c2f/dblp"
   },
   {
-    "id": 682,
+    "id": 683,
     "title": "Investigation on a structural solution of merged characters segmentation in OCR.",
     "authors": [
       "Giuseppe Boccignone",
@@ -12476,7 +12488,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a822e6168c2222ccd6034ca6698b71f4/dblp"
   },
   {
-    "id": 683,
+    "id": 684,
     "title": "Normalisation of Confidence Voting Methods Applied to a Fast Handwritten OCR Classification.",
     "authors": [
       "Juan Ram\u00f3n Rico-Juan",
@@ -12497,7 +12509,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2d7bcbcf746a147b5cefc4d9527ecfaf7/dblp"
   },
   {
-    "id": 684,
+    "id": 685,
     "title": "Mobile Application for Text Recognition (OCR).",
     "authors": [
       "Ondrej Krejcar"
@@ -12515,7 +12527,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2d80e9cae2d5dde2ffb552ac570d8bab5/dblp"
   },
   {
-    "id": 685,
+    "id": 686,
     "title": "Script-Independent, HMM-Based Text Line Finding for OCR.",
     "authors": [
       "Zhidong Lu",
@@ -12532,7 +12544,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/272e052c78e7e4896dc7424f6b7311434/dblp"
   },
   {
-    "id": 686,
+    "id": 687,
     "title": "Improving OCR accuracy through combination: a survey.",
     "authors": [
       "John C. Handley"
@@ -12547,7 +12559,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2d9cea0e0ff5cafb36ea841b069131fb3/dblp"
   },
   {
-    "id": 687,
+    "id": 688,
     "title": "Learning and Upgrading Rules for an OCR System Using Genetic Programming.",
     "authors": [
       "David Andre"
@@ -12562,7 +12574,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/20b8e11afabe8f29cbb4fdb047c5f3680/dblp"
   },
   {
-    "id": 688,
+    "id": 689,
     "title": "A Novel Approach to Skew-Detection and Correction of English Alphabets for OCR.",
     "authors": [
       "Chinmay Chinara",
@@ -12579,7 +12591,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2867589237475e55973aea0ae1dce40db/dblp"
   },
   {
-    "id": 689,
+    "id": 690,
     "title": "High performance Chinese OCR based on Gabor features, discriminative feature extraction and model training.",
     "authors": [
       "Qiang Huo",
@@ -12596,7 +12608,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2377b5fdf8fed03d1beb410fd3770bcd1/dblp"
   },
   {
-    "id": 690,
+    "id": 691,
     "title": "An OCR-independent character segmentation using shortest-path in grayscale document images.",
     "authors": [
       "Jia Tse",
@@ -12626,7 +12638,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/248aae69749b697e3b1b9f1c334a15c27/dblp"
   },
   {
-    "id": 691,
+    "id": 692,
     "title": "OCR in a hierarchical feature space.",
     "authors": [
       "Jaehwa Park",
@@ -12643,7 +12655,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/203deb617fc7f38c991844600d9212441/dblp"
   },
   {
-    "id": 692,
+    "id": 693,
     "title": "Efficient Detection of Abnormalities in Large OCR Databases.",
     "authors": [
       "Thien M. Ha"
@@ -12658,7 +12670,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2beafcb8fff557da4e4d9bc1c8cdfd5e2/dblp"
   },
   {
-    "id": 693,
+    "id": 694,
     "title": "Learning on the Fly: Font-Free Approaches to Difficult OCR Problems.",
     "authors": [
       "Andrew Kae",
@@ -12674,7 +12686,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/251f5ab13a5c99f13320ddf3e5a843a8b/dblp"
   },
   {
-    "id": 694,
+    "id": 695,
     "title": "Prototype Extraction and Adaptive OCR.",
     "authors": [
       "Yihong Xu",
@@ -12688,7 +12700,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/28cb13a91599ed45a025f589344ec72d9/dblp"
   },
   {
-    "id": 695,
+    "id": 696,
     "title": "An Unsupervised method for OCR Post-Correction and Spelling Normalisation for Finnish.",
     "authors": [
       "Quan Duong",
@@ -12703,7 +12715,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2ba75a47ae83ca3147b8955414feec582/dblp"
   },
   {
-    "id": 696,
+    "id": 697,
     "title": "Poemata",
     "authors": [
       "Stjepan Gradi\u0107"
@@ -12715,7 +12727,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2ea42ed3484ebb024f85fef68066d7c06/filologanoga"
   },
   {
-    "id": 697,
+    "id": 698,
     "title": "High-performance OCR preclassification trees.",
     "authors": [
       "Henry S. Baird",
@@ -12734,7 +12746,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/22afd27d3d16d9773594031c067e7bf1f/dblp"
   },
   {
-    "id": 698,
+    "id": 699,
     "title": "A Comparison of Syntactic and Statistical Techniques for Off-Line OCR.",
     "authors": [
       "Simon M. Lucas",
@@ -12756,7 +12768,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2065659c9237585affc31104b00ae3f3d/dblp"
   },
   {
-    "id": 699,
+    "id": 700,
     "title": "Ocrapose: An indoor positioning system using smartphone/tablet cameras and OCR-aided stereo feature matching.",
     "authors": [
       "Hamed Sadeghi",
@@ -12773,7 +12785,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2cfb023a60e419c7a07cc05cb470d8abf/dblp"
   },
   {
-    "id": 700,
+    "id": 701,
     "title": "A High Performance European OCR System.",
     "authors": [
       "K. Wang",
@@ -12789,7 +12801,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2bb48cd36fb48755d63fbdb522dffb590/dblp"
   },
   {
-    "id": 701,
+    "id": 702,
     "title": "Machine reading of camera-held low quality text images: An ICA-based image enhancement approach for improving OCR accuracy.",
     "authors": [
       "Utpal Garain",
@@ -12807,7 +12819,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/205fb911ddd0276f3735a526ac51399eb/dblp"
   },
   {
-    "id": 702,
+    "id": 703,
     "title": "OCR, Classification& Machine Translation (OCCAM).",
     "authors": [
       "Joachim Van den Bogaert",
@@ -12846,7 +12858,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2756d71eb4b166803c1562e2391eb4ebc/dblp"
   },
   {
-    "id": 703,
+    "id": 704,
     "title": "Retrieval methods for English-text with missrecognized OCR characters.",
     "authors": [
       "Manabu Ohta",
@@ -12863,7 +12875,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2c8efd3e9be8bb9c4004e9ef97b046f42/dblp"
   },
   {
-    "id": 704,
+    "id": 705,
     "title": "Slant rectification in Russian passport OCR system using fast Hough transform.",
     "authors": [
       "Elena Limonova",
@@ -12887,7 +12899,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2d37d3109ff091fb094bc4a689951d0ed/dblp"
   },
   {
-    "id": 705,
+    "id": 706,
     "title": "Word-Based Adaptive OCR for Historical Books.",
     "authors": [
       "Vladimir Kluzner",
@@ -12906,7 +12918,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/21d1df33b9d340bf0471526ce0212833e/dblp"
   },
   {
-    "id": 706,
+    "id": 707,
     "title": "Feature selection for low error rate OCR.",
     "authors": [
       "D. E. Troxel"
@@ -12919,7 +12931,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/263b2fbd1e338f808fc6cba6b901441ac/dblp"
   },
   {
-    "id": 707,
+    "id": 708,
     "title": "On OCR of Degraded Documents Using Fuzzy Multifactorial Analysis.",
     "authors": [
       "Utpal Garain",
@@ -12938,7 +12950,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/23986386eea7475ae0008f4f2e1c94c98/dblp"
   },
   {
-    "id": 708,
+    "id": 709,
     "title": "Performance analysis of an OCR system via an artificial handwritten chinese character generator.",
     "authors": [
       "Cheng-Huang Tung",
@@ -12953,7 +12965,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/29193c2f09c5a6c44a511e04bc6867bd7/dblp"
   },
   {
-    "id": 709,
+    "id": 710,
     "title": "Ligature Analysis-based Urdu OCR Framework.",
     "authors": [
       "Zaheer Ahmed",
@@ -12971,7 +12983,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/206216522f75532ccebd52a7602e93f4f/dblp"
   },
   {
-    "id": 710,
+    "id": 711,
     "title": "Confidence Prediction for Lexicon-Free OCR.",
     "authors": [
       "Noam Mor",
@@ -12985,7 +12997,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2f15211530b13d0495ffedd7134505538/dblp"
   },
   {
-    "id": 711,
+    "id": 712,
     "title": "OCR correction of documents generated during Argentina's national reorganization process.",
     "authors": [
       "Paula Estrella",
@@ -13004,7 +13016,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/29f89ee3fbfb7f4f3922af73417f89e68/dblp"
   },
   {
-    "id": 712,
+    "id": 713,
     "title": "OCR System for Poor Quality Images Using Chain-Code Representation.",
     "authors": [
       "Ali H. Ahmed",
@@ -13029,7 +13041,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/260a8e2ccf7f98da96023868341b53595/dblp"
   },
   {
-    "id": 713,
+    "id": 714,
     "title": "A Structural Analysis Based Feature Extraction Method for OCR System For Myanmar Printed Document Images.",
     "authors": [
       "Htwe Pa Pa Win",
@@ -13044,7 +13056,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2bb83a27e89b8318474b2ad2b5299b60d/dblp"
   },
   {
-    "id": 714,
+    "id": 715,
     "title": "OCR++: A Robust Framework For Information Extraction from Scholarly Articles.",
     "authors": [
       "Mayank Singh",
@@ -13073,7 +13085,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2305556fa7dbcb26b2d96f669b1b77dd5/dblp"
   },
   {
-    "id": 715,
+    "id": 716,
     "title": "How well does multiple OCR error correction generalize?",
     "authors": [
       "William B. Lund",
@@ -13093,7 +13105,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2625acaa1cb4038f5d5da437d7358fd3f/dblp"
   },
   {
-    "id": 716,
+    "id": 717,
     "title": "Challenges of Mass OCR-isation of Medieval Latin Texts in a Resource-Limited Project.",
     "authors": [
       "Bruno Bon",
@@ -13110,7 +13122,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/23c79a4ea6c16bebc635cc3d8fff2a35c/dblp"
   },
   {
-    "id": 717,
+    "id": 718,
     "title": "Fast Search with Poor OCR.",
     "authors": [
       "Taivanbat Badamdorj",
@@ -13126,7 +13138,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a6280d93061f65b498810f1f6c080f76/dblp"
   },
   {
-    "id": 718,
+    "id": 719,
     "title": "A Binarization Feature Extraction Approach to OCR: MLP vs. RBF.",
     "authors": [
       "Amit Choudhary",
@@ -13145,7 +13157,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2e9431416575dcb9c8784390c1d2cc3fa/dblp"
   },
   {
-    "id": 719,
+    "id": 720,
     "title": "Improving personal information detection using OCR feature recognition rate.",
     "authors": [
       "Youngkyung Lee",
@@ -13160,7 +13172,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/249c2174456edf6849cb36d9c3f2390d0/dblp"
   },
   {
-    "id": 720,
+    "id": 721,
     "title": "OCR Recognition System for Degraded Urdu and Devnagari Script.",
     "authors": [
       "Sobia Habib",
@@ -13177,7 +13189,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2ab26391bfc4752b1b9d8c301ccc04753/dblp"
   },
   {
-    "id": 721,
+    "id": 722,
     "title": "Modellbildung und Analyse eines OCR-Systems mit verteilter k\u00fcnstlicher Intelligenz",
     "authors": [
       "Frank Moelter"
@@ -13189,7 +13201,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/23d92fe69a083cd92bbb4da8451942325/genealogie"
   },
   {
-    "id": 722,
+    "id": 723,
     "title": "Recherche d'information dans un corpus bruit\u00e9 (OCR).",
     "authors": [
       "Nada Naji",
@@ -13209,7 +13221,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/283296d4601fb81f2641d8198a8c2ff86/dblp"
   },
   {
-    "id": 723,
+    "id": 724,
     "title": "Japanese OCR Error Correction using Character Shape Similarity and Statistical Language Model.",
     "authors": [
       "Masaaki Nagata"
@@ -13226,7 +13238,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2cb48508bcc77c6437e065d3ae9048252/dblp"
   },
   {
-    "id": 724,
+    "id": 725,
     "title": "Towards Improving the Accuracy of Telugu OCR Systems.",
     "authors": [
       "P. Pavan Kumar",
@@ -13245,7 +13257,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/29912a504b0fcaa673c14404af3b87d46/dblp"
   },
   {
-    "id": 725,
+    "id": 726,
     "title": "Impact of OCR errors on the use of digital libraries: towards a better access to information",
     "authors": [
       "G Chiron",
@@ -13262,7 +13274,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/211e30caaa3d0a9c4ea205b91aa436e20/mcoustat"
   },
   {
-    "id": 726,
+    "id": 727,
     "title": "Information Retrieval Based on OCR Errors in Scanned Documents.",
     "authors": [
       "Youssef Fataicha",
@@ -13280,7 +13292,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/230b1515af47e25d5f8253070094a8f15/dblp"
   },
   {
-    "id": 727,
+    "id": 728,
     "title": "A Study on Utilizing OCR Technology in Building Text Database.",
     "authors": [
       "Sun-Hwa Hahn",
@@ -13297,7 +13309,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2d8d0eb9c396156caaff476a7c5848aa1/dblp"
   },
   {
-    "id": 728,
+    "id": 729,
     "title": "Rejection Strategies and Confidence Measures for a k- NN Classifier in an OCR Task.",
     "authors": [
       "Joaquim Arlandis",
@@ -13314,7 +13326,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/23f9528f8262db92668bf480845cffc1b/dblp"
   },
   {
-    "id": 729,
+    "id": 730,
     "title": "Choice of recognizable units for URDU OCR.",
     "authors": [
       "Gurpreet Singh Lehal"
@@ -13332,7 +13344,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/22473470bc7d76555d83c50fde52c5a8f/dblp"
   },
   {
-    "id": 730,
+    "id": 731,
     "title": "Microfilm, Paper and OCR: Issues in Newspaper Digitization",
     "authors": [
       "Kenning Arlitsch",
@@ -13345,7 +13357,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2900cdaf7713df5b988fcc7f3aedbd186/cirrus"
   },
   {
-    "id": 731,
+    "id": 732,
     "title": "Lecture Video Indexing and Analysis Using Video OCR Technology.",
     "authors": [
       "Haojin Yang",
@@ -13360,7 +13372,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2458865b12ed2a51a34d4c0ccb7131966/dblp"
   },
   {
-    "id": 732,
+    "id": 733,
     "title": "Optical Font Recognition for Multi-Font OCR and Document Processing.",
     "authors": [
       "Serena La Manna",
@@ -13377,7 +13389,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2b39376744c9cb9bc4b492a1e16a74cd7/dblp"
   },
   {
-    "id": 733,
+    "id": 734,
     "title": "The Effects of OCR Error on the Extraction of Private Information.",
     "authors": [
       "Kazem Taghva",
@@ -13397,7 +13409,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/27e55c1054f21e06fa6d7fedb1b47e569/dblp"
   },
   {
-    "id": 734,
+    "id": 735,
     "title": "Matching Musical Themes based on noisy OCR and OMR input.",
     "authors": [
       "Stefan Balke",
@@ -13414,7 +13426,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a3181f1af9bef09c0b1d637d7934aad9/dblp"
   },
   {
-    "id": 735,
+    "id": 736,
     "title": "A robust omnifont open-vocabulary arabic OCR system using pseudo-2D-HMM.",
     "authors": [
       "Abdullah M. Rashwan",
@@ -13436,7 +13448,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2c4d1d0574a32708be73912d55a1a73c8/dblp"
   },
   {
-    "id": 736,
+    "id": 737,
     "title": "Kekule: OCR-optical chemical (structure) recognition.",
     "authors": [
       "Joe R. McDaniel",
@@ -13450,7 +13462,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/281af2436145f53fb6d2016720b9bed21/dblp"
   },
   {
-    "id": 737,
+    "id": 738,
     "title": "Joint feature and classifier design for OCR.",
     "authors": [
       "Dz-Mou Jung",
@@ -13465,7 +13477,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2406b4e5e4e589c33465d0e197e36c75b/dblp"
   },
   {
-    "id": 738,
+    "id": 739,
     "title": "A Weighted Finite-State Framework for Correcting Errors in Natural Scene OCR.",
     "authors": [
       "R. Beaufort",
@@ -13481,7 +13493,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2896f09ab4f707ee3a4741ee52cc68418/dblp"
   },
   {
-    "id": 739,
+    "id": 740,
     "title": "Efficient Language-Independent Retrieval of Printed Documents without OCR.",
     "authors": [
       "Walid Magdy",
@@ -13502,7 +13514,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/298d15f15305d9341655be8f23beb03ae/dblp"
   },
   {
-    "id": 740,
+    "id": 741,
     "title": "OCR from poor quality images by deformation of elastic templates.",
     "authors": [
       "Alberto Del Bimbo",
@@ -13519,7 +13531,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/26cb40aea4ebfe5b3d7ce5d29b6e7cf77/dblp"
   },
   {
-    "id": 741,
+    "id": 742,
     "title": "Contextual postprocessing of a Korean OCR system by linguistic constraints.",
     "authors": [
       "Hyuk-Chul Kwon",
@@ -13536,7 +13548,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/21149f8d050eb7dafd6dc6bfc3005f6f1/dblp"
   },
   {
-    "id": 742,
+    "id": 743,
     "title": "Quality of OCR for Degraded Text Images",
     "authors": [
       "Roger T. Hartley",
@@ -13550,7 +13562,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2845140f562831ca3dfece97c886ea425/dblp"
   },
   {
-    "id": 743,
+    "id": 744,
     "title": "Development of OCR system for portable passport and visa reader.",
     "authors": [
       "Yury V. Visilter",
@@ -13570,7 +13582,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/257e17e75371afd7f5d68d5aaef38d4d0/dblp"
   },
   {
-    "id": 744,
+    "id": 745,
     "title": "Probabilistic Management of OCR Data using an RDBMS.",
     "authors": [
       "Arun Kumar",
@@ -13584,7 +13596,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/276d55920ef9ee173b28fc6c0195721f8/dblp"
   },
   {
-    "id": 745,
+    "id": 746,
     "title": "Crowdsourcing the OCR Ground Truth of a German and French Cultural Heritage Corpus.",
     "authors": [
       "Simon Clematide",
@@ -13598,7 +13610,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/283f521ccb769b3b05bf8d9945063e6b8/dblp"
   },
   {
-    "id": 746,
+    "id": 747,
     "title": "HMM-based script identification for OCR.",
     "authors": [
       "Dmitriy Genzel",
@@ -13623,7 +13635,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/21987503de819aafc92eac24e7055db3a/dblp"
   },
   {
-    "id": 747,
+    "id": 748,
     "title": "Automated Evaluation of OCR Zoning.",
     "authors": [
       "Junichi Kanai",
@@ -13639,7 +13651,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2dec868fc5cd39c1624117d895d8300ac/dblp"
   },
   {
-    "id": 748,
+    "id": 749,
     "title": "Summarization of Imaged Documents without OCR.",
     "authors": [
       "Francine Chen",
@@ -13653,7 +13665,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/26710e319d4d53bbbc7c4247e2660bc7e/dblp"
   },
   {
-    "id": 749,
+    "id": 750,
     "title": "Multi-modular domain-tailored OCR post-correction.",
     "authors": [
       "Sarah Schulz",
@@ -13673,7 +13685,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2ea892b70ebf931be25868d323d36a605/dblp"
   },
   {
-    "id": 750,
+    "id": 751,
     "title": "Video OCR for Digital News Archive.",
     "authors": [
       "Toshio Sato",
@@ -13691,7 +13703,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2771e0d66eb2de84c39ffa47a7c10d46e/dblp"
   },
   {
-    "id": 751,
+    "id": 752,
     "title": "Sub-word based Persian OCR Using Auto-Encoder Features and Cascade Classifier.",
     "authors": [
       "Masoud PourReza",
@@ -13709,7 +13721,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/250d608044a8d2c7693c54e4c2cf8a900/dblp"
   },
   {
-    "id": 752,
+    "id": 753,
     "title": "An OCR based on character shape codes and lexical information.",
     "authors": [
       "A. Lawrence Spitz"
@@ -13723,7 +13735,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2144add7e1d8fa649bdd529531e597add/dblp"
   },
   {
-    "id": 753,
+    "id": 754,
     "title": "OCR-Based Image Features for Biomedical Image and Article Classification: Identifying Documents Relevant to Genomic Cis-Regulatory Elements.",
     "authors": [
       "Hagit Shatkay",
@@ -13748,7 +13760,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/222815d3501ed94dec9de8b6567b1f6c5/dblp"
   },
   {
-    "id": 754,
+    "id": 755,
     "title": "Combination of OCR Engines for Page Segmentation Based on Performance Evaluation.",
     "authors": [
       "Miquel Ferrer",
@@ -13764,7 +13776,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/260d9c127ef11fbab53db43c03f9fd949/dblp"
   },
   {
-    "id": 755,
+    "id": 756,
     "title": "Retrieving poorly degraded OCR documents.",
     "authors": [
       "Youssef Fataicha",
@@ -13780,7 +13792,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2fbfe3208c74e7f869c7cb6700a2ced4e/dblp"
   },
   {
-    "id": 756,
+    "id": 757,
     "title": "Malayalam OCR: N-gram approach using SVM classifier.",
     "authors": [
       "Ashitta T. Jia",
@@ -13797,7 +13809,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/22843fb9cc789a9f87b64cb7c67d22dda/dblp"
   },
   {
-    "id": 757,
+    "id": 758,
     "title": "High Performance Chinese/English Mixed OCR with Character Level Language Identification.",
     "authors": [
       "Kai Wang",
@@ -13814,7 +13826,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2249ea01a049f19ae9dd46867adcf6d7f/dblp"
   },
   {
-    "id": 758,
+    "id": 759,
     "title": "Detection Method of Homograph Internationalized Domain Names with OCR.",
     "authors": [
       "Yuta Sawabe",
@@ -13830,7 +13842,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2af1510eec4c8500641c75b50ef9435f9/dblp"
   },
   {
-    "id": 759,
+    "id": 760,
     "title": "Machine-Assisted Human Classification of Segmented Characters For OCR Testing and Training",
     "authors": [
       "Allen R. Wilkinson",
@@ -13847,7 +13859,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a5fb68e6fa779e8743c1b7968e039015/schaul"
   },
   {
-    "id": 760,
+    "id": 761,
     "title": "Enhanced password processing scheme based on visual cryptography and OCR.",
     "authors": [
       "Dana Yang",
@@ -13864,7 +13876,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/25d2007dc18640af3a2811833d6e36588/dblp"
   },
   {
-    "id": 761,
+    "id": 762,
     "title": "OCR Correction and Query Expansion for Retrieval on OCR Data -- CLARIT TREC-5 Confusion Track Report.",
     "authors": [
       "Xiang Tong",
@@ -13884,7 +13896,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2a15dd1ee53e306dea0a05906daa10eef/dblp"
   },
   {
-    "id": 762,
+    "id": 763,
     "title": "\"Lecture Video Indexing and Analysis Using Video OCR Technology\"",
     "authors": [
       "Haojin Yang",
@@ -13898,7 +13910,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2744d7ca44d1bbcdeeeb658fbb956bbc1/lysander07"
   },
   {
-    "id": 763,
+    "id": 764,
     "title": "Implicit Language Model in LSTM for OCR.",
     "authors": [
       "Ekraam Sabir",
@@ -13914,7 +13926,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2bbcfa8dc86c14f78ed4cb37a7a9dc26c/dblp"
   },
   {
-    "id": 764,
+    "id": 765,
     "title": "An End-to-End OCR System for Pashto Cursive Script.",
     "authors": [
       "Riaz Ahmad"
@@ -13927,7 +13939,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/20b3442b0ac99c0b04fafdd73d7781c49/dblp"
   },
   {
-    "id": 765,
+    "id": 766,
     "title": "Display text segmentation after learning best-fitted OCR binarization parameters.",
     "authors": [
       "Antonio Fern\u00e1ndez-Caballero",
@@ -13942,7 +13954,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/235f92070e119c59e356442650500487c/dblp"
   },
   {
-    "id": 766,
+    "id": 767,
     "title": "SYSTRAN Chinese-English MT, ECI Chinese OCR - CHIOCR.",
     "authors": [
       "Laurie Gerber"
@@ -13955,7 +13967,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/20e88c853863c44c8a3202e985e67d84e/dblp"
   },
   {
-    "id": 767,
+    "id": 768,
     "title": "Modeling the sample distribution for clustering OCR.",
     "authors": [
       "Thomas M. Breuel"
@@ -13974,7 +13986,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2fe3861154eff8aaa021ce551cfc47e56/dblp"
   },
   {
-    "id": 768,
+    "id": 769,
     "title": "The Use of Latent Semantic Indexing to Mitigate OCR Effects of Related Document Images.",
     "authors": [
       "Renato Bulc\u00e3o Neto",
@@ -13992,7 +14004,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/23448af473db79f36e55785d542c22257/dblp"
   },
   {
-    "id": 769,
+    "id": 770,
     "title": "A Genetic Algorithm for Feature Selection in a Neuro-Fuzzy OCR System.",
     "authors": [
       "Shamik Sural",
@@ -14008,7 +14020,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2861073d64a1fe029f395f7cc7bad0916/dblp"
   },
   {
-    "id": 770,
+    "id": 771,
     "title": "Boosting OCR Accuracy Using Crowdsourcing.",
     "authors": [
       "Shuo-Yang Wang",
@@ -14024,7 +14036,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2aeb2ce200e82142c55c066ef110d70c5/dblp"
   },
   {
-    "id": 771,
+    "id": 772,
     "title": "The Old Bailey and OCR: Benchmarking AWS, Azure, and GCP with 180, 000 Page Images.",
     "authors": [
       "William Ughetta",
@@ -14040,7 +14052,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2c0417633115ee95174bf4c06d6f8da2d/dblp"
   },
   {
-    "id": 772,
+    "id": 773,
     "title": "A Noise-Resilient Super-Resolution Framework to Boost OCR Performance.",
     "authors": [
       "Manoj Sharma",
@@ -14058,7 +14070,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/267d850ebc43dd4c84fc3f591465d8818/dblp"
   },
   {
-    "id": 773,
+    "id": 774,
     "title": "Improving text recognition by distinguishing scene and overlay text",
     "authors": [
       "Bernhard Quehl",
@@ -14073,7 +14085,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2c6a177dfdefc795aad3c8aea2d700778/lysander07"
   },
   {
-    "id": 774,
+    "id": 775,
     "title": "Dedicated LSI for a Microprocessor-Controlled Hand-Carried OCR System.",
     "authors": [
       "Michel C. Rahier",
@@ -14087,7 +14099,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/20c66ac3bf5f0be34d032ac7c2dab60ba/dblp"
   },
   {
-    "id": 775,
+    "id": 776,
     "title": "OCR-Driven Writer Identification and Adaptation in an HMM Handwriting Recognition System.",
     "authors": [
       "Huaigu Cao",
@@ -14104,7 +14116,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/21702793b8f0a332f7280286e39ff7b6d/dblp"
   },
   {
-    "id": 776,
+    "id": 777,
     "title": "Crowdsourcing an OCR Gold Standard for a German and French Heritage Corpus.",
     "authors": [
       "Simon Clematide",
@@ -14132,7 +14144,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/21da6ff8fbba4ac75ee7d74be4e953414/dblp"
   },
   {
-    "id": 777,
+    "id": 778,
     "title": "Low-resource Post Processing of Noisy OCR Output for Historical Corpus Digitisation.",
     "authors": [
       "Caitlin Richter",
@@ -14164,7 +14176,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/238575b1fefdc521ebd833273f1526e2f/dblp"
   },
   {
-    "id": 778,
+    "id": 779,
     "title": "D\u00e9tection d'erreurs dans des transcriptions OCR de documents historiques par r\u00e9seaux de neurones r\u00e9currents multi-niveau (Combining character level and word level RNNs for post-OCR error detection).",
     "authors": [
       "Thibault Magallon",
@@ -14183,7 +14195,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/26dace1080ccece0072371df2203d9a98/dblp"
   },
   {
-    "id": 779,
+    "id": 780,
     "title": "Unconstrained OCR for Urdu Using Deep CNN-RNN Hybrid Networks.",
     "authors": [
       "Mohit Jain",
@@ -14200,7 +14212,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/26a8c195b2c5def682e293956950267ee/dblp"
   },
   {
-    "id": 780,
+    "id": 781,
     "title": "Challenges in Input Preprocessing for Mobile OCR Applications: A Realistic Testing Scenario.",
     "authors": [
       "Nikolaos Sourvanos",
@@ -14220,7 +14232,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2845aad6284df3969ed3fd81fb5241dde/dblp"
   },
   {
-    "id": 781,
+    "id": 782,
     "title": "Tess4J - ein Wrapper f\u00fcr Tesseract",
     "authors": [
       "Thomas Ronzon"
@@ -14233,7 +14245,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2da581d1bd18b5e9b54944fc284de2dbf/huluvu424242"
   },
   {
-    "id": 782,
+    "id": 783,
     "title": "A Neural OCR Engine for North Saami.",
     "authors": [
       "Andre K\u00e5sen",
@@ -14252,7 +14264,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/21ecbfa4582ebb3ae5eec46e43fde51cb/dblp"
   },
   {
-    "id": 783,
+    "id": 784,
     "title": "Unsupervised Extraction of Training Data for Pre-Modern Chinese OCR.",
     "authors": [
       "Donald Sturgeon"
@@ -14270,7 +14282,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/21df096faf2420efd4bf90cd6aae543a5/dblp"
   },
   {
-    "id": 784,
+    "id": 785,
     "title": "A Complete OCR System for Gurmukhi Script.",
     "authors": [
       "G. S. Lehal",
@@ -14292,7 +14304,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2bd97c8d2790b00a3754336f4f8c3af4f/dblp"
   },
   {
-    "id": 785,
+    "id": 786,
     "title": "Neuro semantic thresholding using OCR software for high precision OCR applications.",
     "authors": [
       "Jes\u00fas L\u00e1zaro",
@@ -14309,7 +14321,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/271c8bf31663ac2a51cf3ce32d9621452/dblp"
   },
   {
-    "id": 786,
+    "id": 787,
     "title": "An Evaluation of OCR Systems Against Adversarial Machine Learning.",
     "authors": [
       "Dan Sporici",
@@ -14329,7 +14341,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2b30d35535f9cef73b2825c5812094670/dblp"
   },
   {
-    "id": 787,
+    "id": 788,
     "title": "Imaged Document Text Retrieval Without OCR.",
     "authors": [
       "Chew Lim Tan",
@@ -14345,7 +14357,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/234397988d3c276f7f4e449419ec1c0db/dblp"
   },
   {
-    "id": 788,
+    "id": 789,
     "title": "An Enhanced Arabic OCR Degraded Text Retrieval Model.",
     "authors": [
       "Mostafa Ezzat",
@@ -14366,7 +14378,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/20fa207b53ad0a88eefb7cb95de77a0b3/dblp"
   },
   {
-    "id": 789,
+    "id": 790,
     "title": "A Multi-Font OCR System for Printed Telugu Text.",
     "authors": [
       "C. Vasantha Lakshmi",
@@ -14382,7 +14394,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/21d190ee370a83b600e6391ce4eab5066/dblp"
   },
   {
-    "id": 790,
+    "id": 791,
     "title": "Evaluating Models of Latent Document Semantics in the Presence of OCR Errors.",
     "authors": [
       "Daniel David Walker",
@@ -14399,7 +14411,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2d5f961cad67cb20aa1e4e0ac9d951193/dblp"
   },
   {
-    "id": 791,
+    "id": 792,
     "title": "Improving the Accessibility of Mobile OCR Apps Via Interactive Modalities.",
     "authors": [
       "Michael Patrick Cutter",
@@ -14413,7 +14425,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/22f7bf26d5b07f2f504f1491291c5a592/dblp"
   },
   {
-    "id": 792,
+    "id": 793,
     "title": "OCR Fonts Revisited for Camera-Based Character Recognition.",
     "authors": [
       "Seiichi Uchida",
@@ -14431,7 +14443,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2af2f20b32a944727e13080f462e85d2e/dblp"
   },
   {
-    "id": 793,
+    "id": 794,
     "title": "OCR Error Correction of an Inflectional Indian Language Using Morphological Parsing.",
     "authors": [
       "U. Pal",
@@ -14446,7 +14458,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/237c0fd9dd313e47e5ddae4f4aea2c32d/dblp"
   },
   {
-    "id": 794,
+    "id": 795,
     "title": "Cryptogram Decoding for OCR Using Numerization Strings.",
     "authors": [
       "Gary B. Huang",
@@ -14463,7 +14475,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/249d748fd3264ff8655c3922b335eeb71/dblp"
   },
   {
-    "id": 795,
+    "id": 796,
     "title": "ICDAR2015 Competition on Smartphone Document Capture and OCR (SmartDoc), 13th Int",
     "authors": [
       "JC Burie",
@@ -14479,7 +14491,7 @@
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/2d180664093779f63e9a8572ee3014a76/mcoustat"
   },
   {
-    "id": 796,
+    "id": 797,
     "title": "Model-based restoration of document images for OCR.",
     "authors": [
       "Mysore Y. Jaisimha",
@@ -14498,20 +14510,6 @@
     "ee": "http://dx.doi.org/10.1117/12.234711",
     "bibtexKey": "conf/drr/JaisimhaRLS96",
     "bibsonomy_id": "https://www.bibsonomy.org/bibtex/23ab66aa01fe44ac5161a32e201deb6ee/dblp"
-  },
-  {
-    "id": 797,
-    "title": "OCR of historical printings with an application to building diachronic corpora: A case study using the RIDGES herbal corpus.",
-    "authors": [
-      "Uwe Springmann",
-      "Anke L\u00fcdeling"
-    ],
-    "editors": [],
-    "year": "2016",
-    "url": "http://dblp.uni-trier.de/db/journals/corr/corr1608.html#SpringmannL16",
-    "ee": "http://arxiv.org/abs/1608.02153",
-    "bibtexKey": "journals/corr/SpringmannL16",
-    "bibsonomy_id": "https://www.bibsonomy.org/bibtex/213abeeca36a300b45694f7b07a18dd25/dblp"
   },
   {
     "id": 798,
