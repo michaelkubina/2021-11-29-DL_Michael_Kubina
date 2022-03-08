@@ -1,0 +1,60 @@
+    Wie viele Merkmale besitzt der Datensatz?
+    14
+    
+    Wie groß ist die Stichprobengröße des Datensatzes?
+    423.448 von 3,313,000 (Bevölkerung San Francisco in 2021)
+    423.448 von 423.448 (Anzahl der ausleihberechtigten Nutzer)
+    
+    Wer oder was sind die Merkmalsträger?
+    Bibliotheksnutzer (Patrons)
+    
+    Von wann bis wann wurden die Daten erhoben?
+    nicht ermittelbar, da keine Angaben unter: https://data.sfgov.org/w/qzz6-2jup/ikek-yizv?cur=-5bJgJGCIzA&from=root
+    
+    Wie lässt sich die Grundgesamtheit beschreiben? Handelt es sich um eine Vollerhebung?
+    Wenn wir sagen, dass die Grundgesamtheit alle ausleihberechtigten Nutzer sind, dann handelt es sich um eine Vollerhebung. Wenn wir hingegen die Bevölkerung von San Francisco als Grundgesamtheit ansehen und sagen alle die einen Bibliotheksausweis in der Public Library haben, werden im Datensatz betrachtet, dann ist dies nur eine Teilerhebung. Selbes gilt, wenn wir nur die ausleihberechtigten Nutzer betrachten, obwohl unsere Grundgesamtheit alle Nutzer sind (auch solche, die die Bibliothek vor Ort und ohne Bibliotheksausweis nutzen).
+    
+    Welche Merkmale sind stetig? Welche diskret?
+Patron Type Code - diskret
+Patron Type Definition - diskret
+Total Checkouts - diskret
+Total Renewals - diskret
+Birth Date - Alter eigentlich stetig, hier aber gruppiert zu Altersgruppen (diskret)
+Home Library Code - diskret
+Home Library Definition - diskret
+Circulation Active Year - diskret
+Notice Preference Code - diskret
+Notice Preference Definition - diskret
+Provided Email Address - diskret
+Year Patron Registered - diskret
+Outside of County - diskret
+Supervisor District - diskret
+
+    
+    Welchem Skalenniveau entsprechen die einzelnen Merkmale (Nominal-, Ordinal- oder Metrische Skala)?
+Patron Type Code - Nominal (kodiert)
+Patron Type Definition - Nominal
+Total Checkouts - Kardinal
+Total Renewals - Kardinal
+Birth Date - Ordinal
+Home Library Code - Nominal
+Home Library Definition - Nominal
+Circulation Active Year - Ordinal
+Notice Preference Code - Nominal
+Notice Preference Definition - Nominal
+Provided Email Address - Nominal
+Year Patron Registered - Nominal
+Outside of County - Nominal
+Supervisor District - Nominal    
+    
+    Enthält der Datensatz fehlende Werte?
+ja:
+Patron Type Code - "some blank"
+Birth Date - "some blank"
+Notice Preference Code - "some blank"
+Year Patron Registered - "no dates prior to 2003 due to systems migrations"
+Supervisor Disctrict - "Also, if the input address was not well-formed, the supervisor district will be blank."
+
+
+    Handelt es sich um Querschnitts-, Längsschnitss- oder Paneldaten?
+Querschnitt, weil es nur den Zustand zu einem bestimmten Zeitpunkt darstellt -> wir haben es nicht mit einer Zeitreihe zu tun
